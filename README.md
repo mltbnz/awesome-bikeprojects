@@ -8,4 +8,5 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [fixmyberlin](https://fixmyberlin.de/planungen) - The Berlin-based FixMyBerlin project analyzes all major roads in the city according to their cycling infrastructure. And keep track of where construction projects are really being implemented.
 * [Fahrradwetter](https://github.com/ulid000/Fahrradwetter) - A script that checks the rain radar to give you a forecast if you should ride the bike today. 
 * [Streetmix](https://streetmix.net) - Design, remix and share your street. Add cycle paths, widen sidewalks or lanes, and find out how that affects your community.
-* [fahrrad-initiativen.de](https://www.fahrrad-initiativen.de/pool) - A list of bike initiatives in germany. 
+* [fahrrad-initiativen.de](https://www.fahrrad-initiativen.de/pool) - A list of bike initiatives in germany.
+* [traffic dynamics](https://traffics.codeformuenster.org/) - interactive visualisation of bike (and car) count data from Münster (Westf., [source code)](https://github.com/codeformuenster/traffic-dynamics#rechtliches)
