@@ -17,6 +17,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [bikedata](https://github.com/ropensci/bikedata) - R package to extract data from public hire bicycle systems.
 
 ## Datacycle Meetup Slides
+https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 ### 15.01.2019
 * [Entdeckungsreise: Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9) - A curated list of topics that build on with OpenstreetMap.
 * [FMB-Daten](https://docs.google.com/presentation/d/1NYlKyClTkoHwR_vIOf7AUk1dEQZ_KLk-tzZgVm5Fuxg/edit#slide=id.g4af4525906_0_21) - Latest http://fixmyberlin.de/ API updates
