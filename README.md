@@ -15,6 +15,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [CityBikes](https://citybik.es/) - Visualizations and APIs for many bike sharing systems around the globe ([source code](https://github.com/eskerda/pybikes)).
 * [Bike data project](http://bikedataproject.com/) - Our aim is to create impact by showing where and when people actually ride a bicycle. More data means more influence over those in power to make cities more sustainable and bike-friendly.
 * [bikedata](https://github.com/ropensci/bikedata) - R package to extract data from public hire bicycle systems.
+* [critical maps](https://www.criticalmaps.net/) - An open source Android and iOS App to organise the monthly critical mass movement around the world.
 
 ## Datacycle Meetup Slides
 https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
