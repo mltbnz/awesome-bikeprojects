@@ -17,6 +17,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [bikedata](https://github.com/ropensci/bikedata) - R package to extract data from public hire bicycle systems.
 * [critical maps](https://www.criticalmaps.net/) - An open source Android and iOS App to organise the monthly critical mass movement around the world.
 * [Berlin Cobblestone (Kopfsteinpflaster) OSM Karte](https://ustroetz.github.io/Berlin-Cobblestone-Hell/) - Map shows cobblestone surfaces in Berlin, based on surface=cobblestone attribute in OpenStreetMaps. Project is "proof of concept" or "work in progress", as other surfaces are not yet shown. See also ["Falsches Verwenden von surface=cobblestone" (in OSM)](https://forum.openstreetmap.org/viewtopic.php?id=58116) .
+* [Die gefährlichsten Radwege in Deutschland](https://radwege.greenpeace.de/) - Interactive map. Add your own "hot spots" and observations. Map and server set up by Greenpeace. Current disadvantages: map uses Google, not OSM; users appear not to be able to create an url as a deep link to a certain position and zoom level.
 
 ## Datacycle Meetup Slides
 https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
