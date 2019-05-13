@@ -40,6 +40,7 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 ### No. 2 - 23.10.2018
 * [Tagesspiegel Radmesser - Update](https://interaktiv.tagesspiegel.de/radmesser/)
 * Input for claiming Open Data related to cycling in Berlin (no slides)
+* [Boréal Bikes](https://www.borealbikes.com) - Research bike Holoscene X with sensors, signal processing and AI based on concepts from the automotive industry 
 * Bike ShakeL - Erschütterungsmessung mit Arduino (no slides yet)
 * [Fahrradwetter](https://speakerdeck.com/ulid000/fahrradwetter-selbstgemacht)
 * [Visual Count](https://docs.google.com/presentation/d/1IOxVlcVuxIJn2bHd793-Yg8_abxYj4biwLZCp1HAvkA/edit?usp=drivesdk) - Counting traffic with video camera and machine learning
