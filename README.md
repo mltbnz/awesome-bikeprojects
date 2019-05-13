@@ -16,12 +16,18 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [Bike data project](http://bikedataproject.com/) - Our aim is to create impact by showing where and when people actually ride a bicycle. More data means more influence over those in power to make cities more sustainable and bike-friendly.
 * [bikedata](https://github.com/ropensci/bikedata) - R package to extract data from public hire bicycle systems.
 * [critical maps](https://www.criticalmaps.net/) - An open source Android and iOS App to organise the monthly critical mass movement around the world.
+* [Berlin Cobblestone (Kopfsteinpflaster) OSM Karte](https://ustroetz.github.io/Berlin-Cobblestone-Hell/) - Map shows cobblestone surfaces in Berlin, based on surface=cobblestone attribute in OpenStreetMaps. Project is "proof of concept" or "work in progress", as other surfaces are not yet shown. See also ["Falsches Verwenden von surface=cobblestone" (in OSM)](https://forum.openstreetmap.org/viewtopic.php?id=58116) .
+* [Die gefährlichsten Radwege in Deutschland](https://radwege.greenpeace.de/) - Interactive map. Add your own "hot spots" and observations. Map and server set up by Greenpeace. Current disadvantages: map uses Google, not OSM; users appear not to be able to create an url as a deep link to a certain position and zoom level.
+* [SimRa App: SimRa: Sicherheit im Radverkehr](https://www.digital-future.berlin/forschung/projekte/simra/) Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.
+* [Parking lanes viewer mit Editor](https://zlant.github.io/parking-lanes/#17/52.47906/13.42876)
+
+
+## Weitere Megaliste von Bike-Projekten
+* [Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9)
+
 
 ## Datacycle Meetup Slides
 https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 ### 15.01.2019
 * [Entdeckungsreise: Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9) - A curated list of topics that build on with OpenstreetMap.
 * [FMB-Daten](https://docs.google.com/presentation/d/1NYlKyClTkoHwR_vIOf7AUk1dEQZ_KLk-tzZgVm5Fuxg/edit#slide=id.g4af4525906_0_21) - Latest http://fixmyberlin.de/ API updates
-### 23.10.2018
-### 21.08.2018
-
