@@ -23,9 +23,32 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [BikeNow](http://vkwvlprad.vkw.tu-dresden.de) - An app crafted by a research group at the Technical University of Dresden showing the seconds remaining until the traffic lights will turn green or red so you can speed down or up to cycle through the city of Dresden without stopping. (German, closed source, invitation only)
 * [Läuft!](https://hamburg.adfc.de/verkehr/themen-a-z/tempo-30/laeuft/laeuft/) - an campaigns run by ADFC Hamburg to provide neighbours in Hamburg with an interactive map and and a tool supporting them to file an application for 30 km/h speed limits on their street due to high air pollution or noise pollution based on German law. The map is using open data issued by the city of Hamburg to identify polluted streets and shows all citizens that already filed an application. Some [repositories](https://github.com/ADFC-Hamburg) contain parts of the entire system used to drive the campaign.
 * [Verkehrsunfallstatistik Berlin](https://github.com/stefanw/verkehrsunfallstatistik) - Parser for Berlin's yearly bike accident reports until 2017 to get the number of accidents per street
+* Wegeheld - App for [Android](https://play.google.com/store/apps/details?id=org.wegeheld) and [iOS](https://itunes.apple.com/de/app/wegeheld/id970336756) allowing citizens to report parking violations e.g. parking on sidewalks or cycling infrastruture to the police or the municipal office responsible for public order (Closed Source by now)
+* [Vereinfachte) Verkehrsordnungswidrigkeitenanzeige bei Halt- und Parkverstößen in Berlin](https://jsfiddle.net/spy2eh0h/44) - Web page for creating an eMail to Berlin Police to report parking violations based on a template containing all information needed. Extracts location data from photo including reverse geocoding.
 * [Abschlapp](https://github.com/stefanw/abschlapp) - First prototype of a mobile app guiding pedestrians and cyclists to get Berlin Police to tow cars from cycling infrastructure and sidewalks based on the [instructions by Autofreies Kreuzberg](https://www.autofreies-kreuzberg.de/radwege-frei.html) 
 * [https://biking.michael-simons.eu](https://biking.michael-simons.eu) - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2)) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 * [Fahrraddaten-Canvas](https://github.com/ulid000/fahrraddaten-canvas) - Template for documentation, discovery or ideation of Open Data for cycling and bicyle urbanism on a single sheet of paper. (German)
+* [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
+* MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
+* [Abstandsrechner](https://github.com/hollma/abstandrechner) - Estimate distance between car overtaking and bike based on camera photos using road markings as reference. 
+* [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+
+
+## Open Data
+
+### Berlin
+* [Data Dive: Cycling data in Berlin](https://lab.technologiestiftung-berlin.de/projects/datadive-cycling/en/) - Overview of available Open Data related to Cycling in Berlin by Technologiestiftung Berlin.
+* [Bike Counters](https://www.berlin.de/senuvk/verkehr/lenkung/vlb/de/karte.shtml) - Map of all bike counters with basic reporting. Data from previous years is also offered as download on VLB's [web page](https://www.berlin.de/senuvk/verkehr/lenkung/vlb/de/radzaehlungen.shtml).
+(Hint: You can get the raw data from the system to do your own visualization as well. There are also differnt libraries available on Github to process data from the "Eco-Counter" system.)
+* [Rythmus der Straße](https://lab.technologiestiftung-berlin.de/projects/bikerides/de/) - Analysis and visualization of the data from Berlin’s counting stations. The data can be explored based on different temporal inputs (e.g., looking at the data by month/year, or by type of day/time of day), meaning you can see for yourself how bike traffic waxes and wanes based on different factors.
+* [Streuplan 2018/19](https://fragdenstaat.de/anfrage/streuplan-fur-den-winter-20182019/) - List of streets with highest priority for winter service (Einsatzstufe 1 nach StrReinG §3 Absatz 5)
+
+### Germany
+* [Mobilität in Tabellen](https://www.mobilitaet-in-tabellen.de/mit/) - Tool to analyze data from the survey and report "Mobilität in Deutschland (MiD) 2017" by BMVI.
+* [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
+
+### Global
+* [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
 
 ## Weitere Megaliste von Bike-Projekten
 * [Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9)
