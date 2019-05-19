@@ -26,6 +26,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [Abschlapp](https://github.com/stefanw/abschlapp) - First prototype of a mobile app guiding pedestrians and cyclists to get Berlin Police to tow cars from cycling infrastructure and sidewalks based on the [instructions by Autofreies Kreuzberg](https://www.autofreies-kreuzberg.de/radwege-frei.html) 
 * [https://biking.michael-simons.eu](https://biking.michael-simons.eu) - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2)) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 * [Fahrraddaten-Canvas](https://github.com/ulid000/fahrraddaten-canvas) - Template for documentation, discovery or ideation of Open Data for cycling and bicyle urbanism on a single sheet of paper. (German)
+* [Abstandsmesser](https://wiki.fricklers.org/abstand.html) – A JS tool to measure the distance between car and cyclist.
 
 ## Weitere Megaliste von Bike-Projekten
 * [Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9)
