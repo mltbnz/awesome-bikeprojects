@@ -30,7 +30,9 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [Fahrraddaten-Canvas](https://github.com/ulid000/fahrraddaten-canvas) - Template for documentation, discovery or ideation of Open Data for cycling and bicyle urbanism on a single sheet of paper. (German)
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
 * MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
-* [Abstandsrechner](https://github.com/hollma/abstandrechner) - Estimate distance between car overtaking and bike based on camera photos using road markings as reference. 
+* Abstandsrechner - A JS tool to measure the distance between car and cyclist. Estimate distance between car overtaking and bike based on camera photos using road markings as reference.
+  * [Website](https://wiki.fricklers.org/abstand.html) 
+  * [GitHub](https://github.com/hollma/abstandrechner)
 * [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 
 
