@@ -70,7 +70,32 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 
 https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 
-### No. 3 - 15.01.2019
+### No. 4 - 19.06.2019, CityLab
+
+([Meetup](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/))
+
+* Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
+  * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
+  * PDF Messdaten Bezirk Neukölln, http://moritzmetz.de/upload/friedelspeed-geschwindigkeitsmessungen-bezirk.pdf
+  * https://github.com/pageauc/speed-camera
+  * Android "Speed Radar Cam", https://play.google.com/store/apps/details?id=androix.com.android.SpeedRadarCam&hl=de
+  * iOS "SpeedClock", https://apps.apple.com/de/app/speedclock-laserpistole/id400876654
+  * Über Moritz, http://moritzmetz.de/
+
+* Long Range [Wide Area Network (WAN)]
+  * [Präsentation Gerhard Peter](https://docs.google.com/presentation/d/18KPmPf9xzxy09KhOnxuVXHLWRB55VuMOKJJrG2OsTzk/edit#slide=id.g328cdd3902_1_47)
+  * Blogpost zu Biketracking, https://www.thethingsnetwork.org/community/berlin/post/jetzt-ab-sofort-moglich-berlin-weites-bike-tracking-ohne-laufende-monatliche-ausgaben-mit-dem-smartphone
+  * [thethingsnetwork.org/community/berlin](https://www.thethingsnetwork.org/community/berlin/)
+  * [lora-wan.de](https://www.lora-wan.de) - Was ist LoRaWAN?
+
+* fLotte – "Bike Sharing" und Daten erzählen, https://flotte-berlin.de/cb-items/lotte/
+
+* David Bermbach, TU, Smartphone-App SimRa – Daten von Radfahrende sammeln und Gefahrensituationen erkennen
+  * (Siehe auch oben in der Liste.)
+  * https://www.mcc.tu-berlin.de/menue/forschung/projekte/simra/
+  * https://github.com/simra-project/
+
+### No. 3 - 15.01.2019, betterplace.org
 
 * [Bike Citizens](https://www.bikecitizens.net) - Cycle routing app for commuters in cities and [analysis platform](https://cyclingdata.net) for traffic engineers and urbanists.   
 * [Tagesspiegel Radmesser - Update](https://interaktiv.tagesspiegel.de/radmesser/) - Update
