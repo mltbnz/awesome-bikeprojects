@@ -5,6 +5,7 @@
 A curated list of awesome bikeprojects including bike sport, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md).   
 
 ## Projects
+
 * [Radmesser](https://interaktiv.tagesspiegel.de/radmesser/index.html) - The Tagesspiegel, together with physicists, experts in artificial intelligence and designers, has developed its own sensor to find out how close car and bicycle drivers are in Berlin's city traffic.
 * [fixmyberlin](https://fixmyberlin.de/planungen) - The Berlin-based FixMyBerlin project analyzes all major roads in the city according to their cycling infrastructure and keep track of where construction projects are really being implemented ([source code](https://github.com/FixMyBerlin)).
 * [Fahrradwetter](https://github.com/ulid000/Fahrradwetter) - A script that checks the rain radar to give you a forecast on wether you should ride the bike today. 
@@ -43,7 +44,9 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 
 ## Open Data
 
+
 ### Berlin
+
 * [Data Dive: Cycling data in Berlin](https://lab.technologiestiftung-berlin.de/projects/datadive-cycling/en/) - Overview of available Open Data related to Cycling in Berlin by Technologiestiftung Berlin.
 * [Bike Counters](https://www.berlin.de/senuvk/verkehr/lenkung/vlb/de/karte.shtml) - Map of all bike counters with basic reporting. Data from previous years is also offered as download on VLB's [web page](https://www.berlin.de/senuvk/verkehr/lenkung/vlb/de/radzaehlungen.shtml).
 (Hint: You can get the raw data from the system to do your own visualization as well. There are also differnt libraries available on Github to process data from the "Eco-Counter" system.)
@@ -51,30 +54,40 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [Streuplan 2018/19](https://fragdenstaat.de/anfrage/streuplan-fur-den-winter-20182019/) - List of streets with highest priority for winter service (Einsatzstufe 1 nach StrReinG §3 Absatz 5)
 
 ### Germany
+
 * [Mobilität in Tabellen](https://www.mobilitaet-in-tabellen.de/mit/) - Tool to analyze data from the survey and report "Mobilität in Deutschland (MiD) 2017" by BMVI.
 * [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
 
 ### Global
+
 * [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
 
 ## Weitere Megaliste von Bike-Projekten
+
 * [Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9)
 
 ## Berlin Datacycle Meetup Slides and Links
+
 https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
+
 ### No. 3 - 15.01.2019
+
 * [Bike Citizens](https://www.bikecitizens.net) - Cycle routing app for commuters in cities and [analysis platform](https://cyclingdata.net) for traffic engineers and urbanists.   
 * [Tagesspiegel Radmesser - Update](https://interaktiv.tagesspiegel.de/radmesser/) - Update
 * [Entdeckungsreise: Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9) - A curated list of topics that build on with OpenstreetMap.
 * [FixMyBerlin-Daten](https://docs.google.com/presentation/d/1NYlKyClTkoHwR_vIOf7AUk1dEQZ_KLk-tzZgVm5Fuxg/edit#slide=id.g4af4525906_0_21) - Latest http://fixmyberlin.de/ API updates
+
 ### No. 2 - 23.10.2018
+
 * [Tagesspiegel Radmesser - Update](https://interaktiv.tagesspiegel.de/radmesser/)
 * Input for claiming Open Data related to cycling in Berlin (no slides)
 * [Boréal Bikes](https://www.borealbikes.com) - Research bike Holoscene X with sensors, signal processing and AI based on concepts from the automotive industry 
 * Bike ShakeL - Erschütterungsmessung mit Arduino (no slides yet)
 * [Fahrradwetter](https://speakerdeck.com/ulid000/fahrradwetter-selbstgemacht)
 * [Visual Count](https://docs.google.com/presentation/d/1IOxVlcVuxIJn2bHd793-Yg8_abxYj4biwLZCp1HAvkA/edit?usp=drivesdk) - Counting traffic with video camera and machine learning
+
 ### No. 1 - 21.08.2018
+
 * [Tagesspiegel Radmesser](https://interaktiv.tagesspiegel.de/radmesser/) - 1st presentation
 * [FixMyBerlin](https://fixmyberlin.de) - 1st presentation
 * [Map of bike accidents in Berlin 2017](https://stefanwehrmeyer.carto.com/viz/4fc39e13-8dbb-4d3f-a181-b2918861b6de/public_map) - extracted from PDF based Berlin Police reports with a [parser](https://github.com/stefanw/verkehrsunfallstatistik)
