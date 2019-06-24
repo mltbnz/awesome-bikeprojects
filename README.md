@@ -19,7 +19,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * [critical maps](https://www.criticalmaps.net/) - An open source Android and iOS App to organise the monthly critical mass movement around the world.
 * [Berlin Cobblestone (Kopfsteinpflaster) OSM Karte](https://ustroetz.github.io/Berlin-Cobblestone-Hell/) - Map shows cobblestone surfaces in Berlin, based on surface=cobblestone attribute in OpenStreetMaps. Project is "proof of concept" or "work in progress", as other surfaces are not yet shown. See also ["Falsches Verwenden von surface=cobblestone" (in OSM)](https://forum.openstreetmap.org/viewtopic.php?id=58116) .
 * [Die gefährlichsten Radwege in Deutschland](https://radwege.greenpeace.de/) - Interactive map. Add your own "hot spots" and observations. Map and server set up by Greenpeace. Current disadvantages: map uses Google, not OSM; users appear not to be able to create an url as a deep link to a certain position and zoom level.
-* **SimRa** - Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.
+* SimRa - Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.
   * [Website](https://www.digital-future.berlin/forschung/projekte/simra/)
   * [GitHub](https://github.com/simra-project/simra-ios)
 * [Parking lanes viewer mit Editor](https://zlant.github.io/parking-lanes/#17/52.47906/13.42876)
@@ -90,7 +90,7 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 
 * fLotte – "Bike Sharing" und Daten erzählen, https://flotte-berlin.de/cb-items/lotte/
 
-* David Bermbach, TU, Smartphone-App SimRa – Daten von Radfahrende sammeln und Gefahrensituationen erkennen
+* David Bermbach, TU, Smartphone-App SimRa – Daten von Radfahrenden sammeln und Gefahrensituationen erkennen
   * (Siehe auch oben in der Liste.)
   * https://www.mcc.tu-berlin.de/menue/forschung/projekte/simra/
   * https://github.com/simra-project/
