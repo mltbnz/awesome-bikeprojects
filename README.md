@@ -76,10 +76,12 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
+  * [Moritz' eigene Messdaten (Google Docs)](https://docs.google.com/spreadsheets/d/1gKip7CnoZp2_j6kxtpKJqL_ge3OTGbvFXNo2uK8GUdo/edit#gid=1095001652)
   * PDF Messdaten Bezirk Neukölln, http://moritzmetz.de/upload/friedelspeed-geschwindigkeitsmessungen-bezirk.pdf
   * https://github.com/pageauc/speed-camera
   * Android "Speed Radar Cam", https://play.google.com/store/apps/details?id=androix.com.android.SpeedRadarCam&hl=de
   * iOS "SpeedClock", https://apps.apple.com/de/app/speedclock-laserpistole/id400876654
+  * [Weitere Apps und Tools](https://twitter.com/moritzmetz/status/1142711988415533056)
   * Über Moritz, http://moritzmetz.de/
 
 * Long Range [Wide Area Network (WAN)]
@@ -88,7 +90,7 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
   * [thethingsnetwork.org/community/berlin](https://www.thethingsnetwork.org/community/berlin/)
   * [lora-wan.de](https://www.lora-wan.de) - Was ist LoRaWAN?
 
-* fLotte – "Bike Sharing" und Daten erzählen, https://flotte-berlin.de/cb-items/lotte/
+* fLotte – "Bike Sharing" und Daten erzählen, https://flotte-berlin.de/cb-items/lotte/ – [Tweet mit Foto vom Proof Of Concept](https://twitter.com/plateauton/status/1141407893939511296)
 
 * David Bermbach, TU, Smartphone-App SimRa – Daten von Radfahrenden sammeln und Gefahrensituationen erkennen
   * (Siehe auch oben in der Liste.)
