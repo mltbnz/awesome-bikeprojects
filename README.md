@@ -67,6 +67,10 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 
 * [Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9)
 
+## OSM-Verkehrswende Meeetups
+
+https://wiki.openstreetmap.org/wiki/Talk:Berlin/Verkehrswende
+
 ## Berlin Datacycle Meetup Slides and Links
 
 https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
