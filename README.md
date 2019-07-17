@@ -46,6 +46,9 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 
 ## Open Data
 
+* [Aufzugsdaten](https://data.deutschebahn.com/dataset/data-aufzug). Antwort der Deutschen Bahn auf Anfrage/Diskussion über unzureichende Aufzugsgrößen im ÖPNV:
+  * https://mobile.twitter.com/Berlinradlerin/status/1147290373464711168
+  * https://mobile.twitter.com/DB_Bahn/status/1147429363501211648
 
 ### Berlin
 
