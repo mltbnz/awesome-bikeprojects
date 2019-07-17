@@ -41,6 +41,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
   * [GitHub](https://github.com/hollma/abstandrechner)
 * [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 * [Mitradgelegenheit](http://mitradgelegenheit.org/) - Website to organize small critical masses on for every day rides like going to work or a trip to the lake.
+* [OSM Conflator](https://github.com/mapsme/osm_conflate). This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 
 
 ## Open Data
