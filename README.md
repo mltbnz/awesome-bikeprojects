@@ -79,9 +79,7 @@ https://wiki.openstreetmap.org/wiki/Talk:Berlin/Verkehrswende
 
 https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 
-### No. 4 - 19.06.2019, CityLab
-
-([Meetup](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/))
+### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
@@ -106,14 +104,14 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
   * https://www.mcc.tu-berlin.de/menue/forschung/projekte/simra/
   * https://github.com/simra-project/
 
-### No. 3 - 15.01.2019, betterplace.org
+### [No. 3 - 15.01.2019, betterplace.org](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/bclvkqyzcbtb/)
 
 * [Bike Citizens](https://www.bikecitizens.net) - Cycle routing app for commuters in cities and [analysis platform](https://cyclingdata.net) for traffic engineers and urbanists.   
 * [Tagesspiegel Radmesser - Update](https://interaktiv.tagesspiegel.de/radmesser/) - Update
 * [Entdeckungsreise: Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9) - A curated list of topics that build on with OpenstreetMap.
 * [FixMyBerlin-Daten](https://docs.google.com/presentation/d/1NYlKyClTkoHwR_vIOf7AUk1dEQZ_KLk-tzZgVm5Fuxg/edit#slide=id.g4af4525906_0_21) - Latest http://fixmyberlin.de/ API updates
 
-### No. 2 - 23.10.2018
+### [No. 2 - 23.10.2018, Motion.Lab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/lqlvvpyxnbvb/)
 
 * [Tagesspiegel Radmesser - Update](https://interaktiv.tagesspiegel.de/radmesser/)
 * Input for claiming Open Data related to cycling in Berlin (no slides)
@@ -122,7 +120,7 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 * [Fahrradwetter](https://speakerdeck.com/ulid000/fahrradwetter-selbstgemacht)
 * [Visual Count](https://docs.google.com/presentation/d/1IOxVlcVuxIJn2bHd793-Yg8_abxYj4biwLZCp1HAvkA/edit?usp=drivesdk) - Counting traffic with video camera and machine learning
 
-### No. 1 - 21.08.2018
+### [No. 1 - 21.08.2018, Tagesspiegel](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/lqlvvpyxlbcc/)
 
 * [Tagesspiegel Radmesser](https://interaktiv.tagesspiegel.de/radmesser/) - 1st presentation
 * [FixMyBerlin](https://fixmyberlin.de) - 1st presentation
