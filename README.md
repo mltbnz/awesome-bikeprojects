@@ -22,6 +22,9 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 * SimRa - Kostenlose SimRa App. TU Berlin-Projekt. Datensparsame Datensammel-App, die Fahrtrouten aufzeichnet und Beschleunigungsdaten zum Detektieren von Gefahrensituationen nutzt wie plötzliches Bremsen, Ausweichen, Stürze. 3-Jahres-Förderung durch die Citizen-Science-Initiative der TU Berlin.
   * [Website](https://www.digital-future.berlin/forschung/projekte/simra/)
   * [GitHub](https://github.com/simra-project/simra-ios)
+* Cyface - Software zur Analyse der Qualität und Nutzung von Verkehrswegen. Cyface Android App und Cyface Sensorbox (RaspberryPi) zur Erfassung von Straßen- und Verkehrsdaten. Ausgründung der TU Dresden.
+  * [Webseite](https://www.cyface.de/)
+  * [Github: Android Backend](https://github.com/cyface-de/android-backend)
 * [Parking lanes viewer mit Editor](https://zlant.github.io/parking-lanes/#17/52.47906/13.42876)
 * [BikeNow](http://vkwvlprad.vkw.tu-dresden.de) - An app crafted by a research group at the Technical University of Dresden showing the seconds remaining until the traffic lights will turn green or red so you can speed down or up to cycle through the city of Dresden without stopping. (German, closed source, invitation only)
 * [Läuft!](https://hamburg.adfc.de/verkehr/themen-a-z/tempo-30/laeuft/laeuft/) - an campaigns run by ADFC Hamburg to provide neighbours in Hamburg with an interactive map and and a tool supporting them to file an application for 30 km/h speed limits on their street due to high air pollution or noise pollution based on German law. The map is using open data issued by the city of Hamburg to identify polluted streets and shows all citizens that already filed an application. Some [repositories](https://github.com/ADFC-Hamburg) contain parts of the entire system used to drive the campaign.
