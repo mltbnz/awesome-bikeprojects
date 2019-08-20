@@ -34,6 +34,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
   * [GitHub](https://github.com/stefanw/verkehrsunfallstatistik)
 * [Unfallatlas](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_310_46241.html)"
   * [Map](https://unfallatlas.statistikportal.de/)
+  * [Interaktive Karte vom Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/alle-unfaelle-berlins-auf-einer-karte/)
 * Wegeheld - App for [Android](https://play.google.com/store/apps/details?id=org.wegeheld) and [iOS](https://itunes.apple.com/de/app/wegeheld/id970336756) allowing citizens to report parking violations e.g. parking on sidewalks or cycling infrastruture to the police or the municipal office responsible for public order (Closed Source by now)
 * [(Vereinfachte) Verkehrsordnungswidrigkeitenanzeige bei Halt- und Parkverstößen in Berlin](https://jsfiddle.net/spy2eh0h/44) - Web page for creating an eMail to Berlin Police to report parking violations based on a template containing all information needed. Extracts location data from photo including reverse geocoding.
   * Copy of the jsfiddle (from 2019-06-18) as a Github Gist which can be [edited more easily](https://gist.github.com/tordans/9495504789d52e503bbe0022e592e451) and provides [a standalone webpage of the gist](https://bl.ocks.org/tordans/raw/9495504789d52e503bbe0022e592e451/).
