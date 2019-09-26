@@ -60,6 +60,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
   * https://www.openalpr.com/
   * Für den Eigengebrauch ist der Free Plan hier eine gute Variante https://openalpr.com/cloud-api.html siehe https://twitter.com/weg_li/status/1174058232324808704?s=20
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 2.0.
+* Interaktive [Kartenvisualisierung der Wegeheld-Meldungen](https://map-nerd.maps.arcgis.com/apps/webappviewer/index.html?id=d753a3c2b5d24b48b717c94b7002fcc5) - siehe https://twitter.com/rad_ritter/status/1177231465668587520
 
 ## Open Data
 
