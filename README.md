@@ -84,6 +84,7 @@ A curated list of awesome bikeprojects including bike sport, open data, data vis
 Einnahmen abzügl. der Verwaltungskosten überschaubar und Verhaltensanpassung der Falschparker fraglich.
 Was ist der öffentlich Raum eigentlich wert?
   * https://twitter.com/urlaubsstau/status/1218919552857362438
+* [InfraVelo: Karte mit den Radprojekten](https://www.infravelo.de/Karte/)
 
 ### Germany
 
