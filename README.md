@@ -5,7 +5,7 @@
 A curated list of awesome bikeprojects including bike sport, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md).   
 
 ## Projects
-
+* [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 * [Radmesser](https://interaktiv.tagesspiegel.de/radmesser/index.html) - The Tagesspiegel, together with physicists, experts in artificial intelligence and designers, has developed its own sensor to find out how close car and bicycle drivers are in Berlin's city traffic.
 * [fixmyberlin](https://fixmyberlin.de/planungen) - The Berlin-based FixMyBerlin project analyzes all major roads in the city according to their cycling infrastructure and keep track of where construction projects are really being implemented ([source code](https://github.com/FixMyBerlin)).
 * [Fahrradwetter](https://github.com/ulid000/Fahrradwetter) - A script that checks the rain radar to give you a forecast on wether you should ride the bike today. 
