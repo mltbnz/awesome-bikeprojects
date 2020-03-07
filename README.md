@@ -4,6 +4,15 @@
 
 A curated list of awesome bikeprojects including bike sport, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md).   
 
+
+Jump to
+
+- [Projects](#projects)
+- [Open Data](#open-data)
+- [Meetups](#meetups)
+- [Other aweseome lists](#other-awesome-lists)
+
+
 ## Projects
 * [Verkehrswende Wordpress Locations](https://github.com/steampixel/RadentscheidWordpressLocations) - This Wordpress plugin can be used to track infrastructural problems like missing sidewalks or bike lanes and provides users with interactive maps. Users can also contribute to the map by uploading coordinates and images.
 * [Radmesser](https://interaktiv.tagesspiegel.de/radmesser/index.html) - The Tagesspiegel, together with physicists, experts in artificial intelligence and designers, has developed its own sensor to find out how close car and bicycle drivers are in Berlin's city traffic.
@@ -98,19 +107,17 @@ Was ist der öffentlich Raum eigentlich wert?
 * [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
 * [The Arrogance of Space Mapping Tool](https://cyklokoalicia.sk/arrogance/) - Upload an aerial or satellite photo from your city - an intersection or neighbourhood - and start mapping how much space is allocated to cars, pedestrians and bikes. See also https://twitter.com/colvilleandersn/status/1197537645657829379 and https://medium.com/@colville_andersen/the-arrogance-of-space-93a7419b0278
 
-## Weitere Megaliste von Bike-Projekten
+## Meetups
 
-* [Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9)
-
-## OSM-Verkehrswende Meeetups
+### OSM-Verkehrswende Meeetups
 
 https://wiki.openstreetmap.org/wiki/Talk:Berlin/Verkehrswende
 
-## Berlin Datacycle Meetup Slides and Links
+### Berlin Datacycle Meetup Slides and Links
 
 https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 
-### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
+#### [No. 4 - 19.06.2019, CityLab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/262280570/)
 
 * Moritz Metz – selbst durchgeführten Geschwindigkeitsmessungen am "Friedel-Speedway"
   * [Blogpost](https://fahrradfreundliches-neukoelln.de/blog/neukoellner-friedelspeedway)
@@ -135,14 +142,14 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
   * https://www.mcc.tu-berlin.de/menue/forschung/projekte/simra/
   * https://github.com/simra-project/
 
-### [No. 3 - 15.01.2019, betterplace.org](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/bclvkqyzcbtb/)
+#### [No. 3 - 15.01.2019, betterplace.org](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/bclvkqyzcbtb/)
 
 * [Bike Citizens](https://www.bikecitizens.net) - Cycle routing app for commuters in cities and [analysis platform](https://cyclingdata.net) for traffic engineers and urbanists.   
 * [Tagesspiegel Radmesser - Update](https://interaktiv.tagesspiegel.de/radmesser/) - Update
 * [Entdeckungsreise: Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9) - A curated list of topics that build on with OpenstreetMap.
 * [FixMyBerlin-Daten](https://docs.google.com/presentation/d/1NYlKyClTkoHwR_vIOf7AUk1dEQZ_KLk-tzZgVm5Fuxg/edit#slide=id.g4af4525906_0_21) - Latest http://fixmyberlin.de/ API updates
 
-### [No. 2 - 23.10.2018, Motion.Lab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/lqlvvpyxnbvb/)
+#### [No. 2 - 23.10.2018, Motion.Lab](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/lqlvvpyxnbvb/)
 
 * [Tagesspiegel Radmesser - Update](https://interaktiv.tagesspiegel.de/radmesser/)
 * Input for claiming Open Data related to cycling in Berlin (no slides)
@@ -151,8 +158,12 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 * [Fahrradwetter](https://speakerdeck.com/ulid000/fahrradwetter-selbstgemacht)
 * [Visual Count](https://docs.google.com/presentation/d/1IOxVlcVuxIJn2bHd793-Yg8_abxYj4biwLZCp1HAvkA/edit?usp=drivesdk) - Counting traffic with video camera and machine learning
 
-### [No. 1 - 21.08.2018, Tagesspiegel](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/lqlvvpyxlbcc/)
+#### [No. 1 - 21.08.2018, Tagesspiegel](https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/events/lqlvvpyxlbcc/)
 
 * [Tagesspiegel Radmesser](https://interaktiv.tagesspiegel.de/radmesser/) - 1st presentation
 * [FixMyBerlin](https://fixmyberlin.de) - 1st presentation
 * [Map of bike accidents in Berlin 2017](https://stefanwehrmeyer.carto.com/viz/4fc39e13-8dbb-4d3f-a181-b2918861b6de/public_map) - extracted from PDF based Berlin Police reports with a [parser](https://github.com/stefanw/verkehrsunfallstatistik)
+
+## Other awesome lists
+
+* [Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9)
