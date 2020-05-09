@@ -96,6 +96,7 @@ Einnahmen abzügl. der Verwaltungskosten überschaubar und Verhaltensanpassung d
 Was ist der öffentlich Raum eigentlich wert?
   * https://twitter.com/urlaubsstau/status/1218919552857362438
 * [InfraVelo: Karte mit den Radprojekten](https://www.infravelo.de/Karte/)
+* [Radzählstellen in Berlin](https://daten.berlin.de/datensaetze/radz%C3%A4hldaten-berlin)
 
 ### Germany
 
