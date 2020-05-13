@@ -85,6 +85,7 @@ Jump to
 * [Bike Counters](https://www.berlin.de/senuvk/verkehr/lenkung/vlb/de/karte.shtml) - Map of all bike counters with basic reporting. Data from previous years is also offered as download on VLB's [web page](https://www.berlin.de/senuvk/verkehr/lenkung/vlb/de/radzaehlungen.shtml).
 (Hint: You can get the raw data from the system to do your own visualization as well. There are also differnt libraries available on Github to process data from the "Eco-Counter" system.)
   * [Visualisation of Bike Counter Data](https://lab.technologiestiftung-berlin.de/projects/bikerides/de/) by the Technologiestiftung Berlin Lab
+  * [Radzählstellen in Berlin](https://daten.berlin.de/datensaetze/radz%C3%A4hldaten-berlin)
 * [Rhythmus der Straße](https://lab.technologiestiftung-berlin.de/projects/bikerides/de/) - Analysis and visualization of the data from Berlin’s counting stations. The data can be explored based on different temporal inputs (e.g., looking at the data by month/year, or by type of day/time of day), meaning you can see for yourself how bike traffic waxes and wanes based on different factors.
 * [Streuplan 2018/19](https://fragdenstaat.de/anfrage/streuplan-fur-den-winter-20182019/) - List of streets with highest priority for winter service (Einsatzstufe 1 nach StrReinG §3 Absatz 5)
 * [Tempo 30 würde Fahrzeiten kaum erhöhen](https://github.com/vizsim/uber_data_analysis) Auf vielen Straßen in Berlin würde tagsüber Tempo 30 kaum die Fahrzeiten erhöhen: Zu sehen sind Straßenabschnitte, wo aktuell zwar Tempo 50 gilt, aber in der Realität (Uber-Daten 2019Q2) nicht viel schneller als Tempo 30 gefahren wird/gefahren werden kann. In diesem Projekt wurden die Durchschnittsgeschwindigkeiten von Uber-Fahrzeugen aus dem Q2 2019 OSM-Strassenabschnitten zugeordent. Anschließend wurden nur Strassenabschnitten visualisiert, auf denen Tempo 50 gilt (maxspeed=50) und tatsächlich nur <33km/h gefahren wird.
@@ -96,7 +97,6 @@ Einnahmen abzügl. der Verwaltungskosten überschaubar und Verhaltensanpassung d
 Was ist der öffentlich Raum eigentlich wert?
   * https://twitter.com/urlaubsstau/status/1218919552857362438
 * [InfraVelo: Karte mit den Radprojekten](https://www.infravelo.de/Karte/)
-* [Radzählstellen in Berlin](https://daten.berlin.de/datensaetze/radz%C3%A4hldaten-berlin)
 
 ### Germany
 
