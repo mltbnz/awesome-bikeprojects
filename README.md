@@ -103,7 +103,7 @@ Was ist der öffentlich Raum eigentlich wert?
 * [Mobilität in Tabellen](https://www.mobilitaet-in-tabellen.de/mit/) - Tool to analyze data from the survey and report "Mobilität in Deutschland (MiD) 2017" by BMVI.
 * [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
-* [Falschparker-Karte] (http://wege-frei.heikozelt.de/) Map about illegal parking in Germany as reported by citizens via Wegeheld app and weg-li.de website.
+* [Falschparker-Karte](http://wege-frei.heikozelt.de/) Map about illegal parking in Germany as reported by citizens via Wegeheld app and weg-li.de website.
 
 ### Global
 
