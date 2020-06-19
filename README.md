@@ -69,6 +69,7 @@ Jump to
 * Kennzeichenerkennung
   * https://www.openalpr.com/
   * Für den Eigengebrauch ist der Free Plan hier eine gute Variante https://www.openalpr.com/cloud-api.html siehe https://twitter.com/weg_li/status/1174058232324808704?s=20
+* [OpenBike](https://ulm.dev/projects/openbike/): Free/Libre-Open-Source-Softwarestack für Fahrradsharing (oder Sharingsysteme generell). Modularer Aufbau mit Standardschnittstellen (Verfügbarkeiten werden über GBFS ausgespielt, etc).
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 2.0.
 * Interaktive [Kartenvisualisierung der Wegeheld-Meldungen](https://map-nerd.maps.arcgis.com/apps/webappviewer/index.html?id=d753a3c2b5d24b48b717c94b7002fcc5) - siehe https://twitter.com/rad_ritter/status/1177231465668587520
 * [bikeparking.lorenz.lu](https://bikeparking.lorenz.lu/) - Datenabgleich von Fahrradparkplätzen aus den OSM-Daten mit OpenData-Datensätzen aus Berlin und anderen Städten. Man kann sehen, wo in OSM Daten fehlen. Und Statistiken über die Fahrradstellplätze nach Stadt/Region ausgeben lassen.
