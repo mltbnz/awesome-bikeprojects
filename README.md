@@ -60,7 +60,6 @@ Jump to
 * [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 * [Mitradgelegenheit](http://mitradgelegenheit.org/) - Website to organize small critical masses on for every day rides like going to work or a trip to the lake.
 * [OSM Conflator](https://github.com/mapsme/osm_conflate). This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
-* [Open Data Cam](https://opendatacam.moovellab.com/#about) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner
 * Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
   * [Website](https://www.weg-li.de/)
   * [Github](https://github.com/weg-li/weg-li) Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  https://cloud.google.com/vision/docs/request?hl=de siehe https://twitter.com/ulid000/status/1174061217477996546?s=20
@@ -74,6 +73,16 @@ Jump to
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 2.0.
 * Interaktive [Kartenvisualisierung der Wegeheld-Meldungen](https://map-nerd.maps.arcgis.com/apps/webappviewer/index.html?id=d753a3c2b5d24b48b717c94b7002fcc5) - siehe https://twitter.com/rad_ritter/status/1177231465668587520
 * [bikeparking.lorenz.lu](https://bikeparking.lorenz.lu/) - Datenabgleich von Fahrradparkplätzen aus den OSM-Daten mit OpenData-Datensätzen aus Berlin und anderen Städten. Man kann sehen, wo in OSM Daten fehlen. Und Statistiken über die Fahrradstellplätze nach Stadt/Region ausgeben lassen.
+
+## Verkehrszählung
+
+* Research Apps
+  * [counterpointapp.org](https://www.counterpointapp.org/) ([nicht OpenSource](https://twitter.com/counterpointapp/status/1255218427431714817))
+  * "[Vzapp - Verkehr zählen per App](https://play.google.com/store/apps/details?id=de.vzapp.vzappApp&hl=de)" (Android
+* CityLab: [Open Traffic Count](https://www.citylab-berlin.org/projects/trafficcount/)
+* Visual Count ([siehe unten](#no-2---23102018-motionlab))
+* [Open Data Cam](https://www.move-lab.com/project/opendatacam/#about) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Website](https://opendata.cam/). [Github](https://github.com/opendatacam/opendatacam).
+
 
 ## Open Data
 
