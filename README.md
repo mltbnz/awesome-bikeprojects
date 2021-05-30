@@ -74,6 +74,7 @@ Jump to
 * Interaktive [Kartenvisualisierung der Wegeheld-Meldungen](https://map-nerd.maps.arcgis.com/apps/webappviewer/index.html?id=d753a3c2b5d24b48b717c94b7002fcc5) - siehe https://twitter.com/rad_ritter/status/1177231465668587520
 * [bikeparking.lorenz.lu](https://bikeparking.lorenz.lu/) - Datenabgleich von Fahrradparkplätzen aus den OSM-Daten mit OpenData-Datensätzen aus Berlin und anderen Städten. Man kann sehen, wo in OSM Daten fehlen. Und Statistiken über die Fahrradstellplätze nach Stadt/Region ausgeben lassen.
 * [Design, remix, and share your street. Add bike paths, widen sidewalks or traffic lanes, learn how all of this can impact your community.](https://streetmix.net)
+* [This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer](https://github.com/schienenersatzverkehr/byke)
 
 ## Verkehrszählung
 
