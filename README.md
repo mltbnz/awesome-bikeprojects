@@ -109,6 +109,7 @@ Was ist der öffentlich Raum eigentlich wert?
   * https://twitter.com/urlaubsstau/status/1218919552857362438
 * [InfraVelo: Karte mit den Radprojekten](https://www.infravelo.de/Karte/)
 * [This repo is about the data collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin](https://github.com/hanshack/car-tagging-data-berlin)
+* [The analysis of all accidents in which people had accidents in 2019](https://interaktiv.tagesspiegel.de/lab/alle-schlimmen-verkehrsunfaelle-in-berlin-auf-einer-karte/)
 
 ### Germany
 
