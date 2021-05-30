@@ -75,6 +75,7 @@ Jump to
 * [bikeparking.lorenz.lu](https://bikeparking.lorenz.lu/) - Datenabgleich von Fahrradparkplätzen aus den OSM-Daten mit OpenData-Datensätzen aus Berlin und anderen Städten. Man kann sehen, wo in OSM Daten fehlen. Und Statistiken über die Fahrradstellplätze nach Stadt/Region ausgeben lassen.
 * [Streetmix](https://streetmix.net): Design, remix, and share your street. Add bike paths, widen sidewalks or traffic lanes, learn how all of this can impact your community.
 * [Byke](https://github.com/schienenersatzverkehr/byke): This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
+* [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide)
 
 ## Verkehrszählung
 
