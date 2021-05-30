@@ -73,8 +73,8 @@ Jump to
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 2.0.
 * Interaktive [Kartenvisualisierung der Wegeheld-Meldungen](https://map-nerd.maps.arcgis.com/apps/webappviewer/index.html?id=d753a3c2b5d24b48b717c94b7002fcc5) - siehe https://twitter.com/rad_ritter/status/1177231465668587520
 * [bikeparking.lorenz.lu](https://bikeparking.lorenz.lu/) - Datenabgleich von Fahrradparkplätzen aus den OSM-Daten mit OpenData-Datensätzen aus Berlin und anderen Städten. Man kann sehen, wo in OSM Daten fehlen. Und Statistiken über die Fahrradstellplätze nach Stadt/Region ausgeben lassen.
-* [Design, remix, and share your street. Add bike paths, widen sidewalks or traffic lanes, learn how all of this can impact your community.](https://streetmix.net)
-* [This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer](https://github.com/schienenersatzverkehr/byke)
+* [Streetmix](https://streetmix.net): Design, remix, and share your street. Add bike paths, widen sidewalks or traffic lanes, learn how all of this can impact your community.
+* [Byke](https://github.com/schienenersatzverkehr/byke): This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 
 ## Verkehrszählung
 
@@ -110,9 +110,9 @@ Einnahmen abzügl. der Verwaltungskosten überschaubar und Verhaltensanpassung d
 Was ist der öffentlich Raum eigentlich wert?
   * https://twitter.com/urlaubsstau/status/1218919552857362438
 * [InfraVelo: Karte mit den Radprojekten](https://www.infravelo.de/Karte/)
-* [This repo is about the data collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin](https://github.com/hanshack/car-tagging-data-berlin)
-* [The analysis of all accidents in which people had accidents in 2019](https://interaktiv.tagesspiegel.de/lab/alle-schlimmen-verkehrsunfaelle-in-berlin-auf-einer-karte/)
-* [This map shows projects from infraVelo and the Berlin districts that are currently being actively worked on or that have been completed after 2016](https://www.infravelo.de/karte/)
+* [car-tagging-data-berlin](https://github.com/hanshack/car-tagging-data-berlin): This repo is about the data collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin
+* [Verkehrsunfaelle-in-berlin-auf-einer-karte](https://interaktiv.tagesspiegel.de/lab/alle-schlimmen-verkehrsunfaelle-in-berlin-auf-einer-karte/): The analysis of all accidents in which people had accidents in 2019
+* [infravelo.de/karte](https://www.infravelo.de/karte/): This map shows projects from infraVelo and the Berlin districts that are currently being actively worked on or that have been completed after 2016
 
 ### Germany
 
@@ -120,7 +120,7 @@ Was ist der öffentlich Raum eigentlich wert?
 * [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
 * [Falschparker-Karte](http://wege-frei.heikozelt.de/) Map about illegal parking in Germany as reported by citizens via Wegeheld app and weg-li.de website.
-* [The Accident Atlas contains accidents with personal injury. Accidents involving only material damage are not shown](https://unfallatlas.statistikportal.de)
+* [unfallatlas.statistikportal.de](https://unfallatlas.statistikportal.de): The Accident Atlas contains accidents with personal injury. Accidents involving only material damage are not shown
 
 ### Global
 
