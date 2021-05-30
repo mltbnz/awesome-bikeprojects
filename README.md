@@ -116,6 +116,7 @@ Was ist der öffentlich Raum eigentlich wert?
 * [Unfallatlas](https://unfallatlas.statistikportal.de) - Map and data download of accidents with personal injuries.
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
 * [Falschparker-Karte](http://wege-frei.heikozelt.de/) Map about illegal parking in Germany as reported by citizens via Wegeheld app and weg-li.de website.
+* [The Accident Atlas contains accidents with personal injury. Accidents involving only material damage are not shown](https://unfallatlas.statistikportal.de)
 
 ### Global
 
