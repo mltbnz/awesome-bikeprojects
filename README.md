@@ -76,6 +76,7 @@ Jump to
 * [Streetmix](https://streetmix.net): Design, remix, and share your street. Add bike paths, widen sidewalks or traffic lanes, learn how all of this can impact your community.
 * [Byke](https://github.com/schienenersatzverkehr/byke): This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 * [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide)
+* [FFGC (Fantastic Fixed Gear Calculator)](https://www.surplace.fr/ffgc/) Online tool by [surplace](https://www.surplace.fr/a-propos/) that will show gear ratio, skid patch, development, equivalent gearing and other useful info based on your gears and tires.
 
 ## Verkehrszählung
 
