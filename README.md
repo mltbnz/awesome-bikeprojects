@@ -57,6 +57,8 @@ Jump to
 * Abstandsrechner - A JS tool to measure the distance between car and cyclist. Estimate distance between car overtaking and bike based on camera photos using road markings as reference.
   * [Website](https://wiki.fricklers.org/abstand.html) 
   * [GitHub](https://github.com/hollma/abstandrechner)
+  ![grafik](https://user-images.githubusercontent.com/1151915/135992288-48a1b59d-cc19-45f1-bbb0-187a5fd1169d.png)
+
 * [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 * [Mitradgelegenheit](http://mitradgelegenheit.org/) - Website to organize small critical masses on for every day rides like going to work or a trip to the lake.
 * [OSM Conflator](https://github.com/mapsme/osm_conflate). This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
@@ -79,11 +81,11 @@ Jump to
 * [FFGC (Fantastic Fixed Gear Calculator)](https://www.surplace.fr/ffgc/) Online tool by [surplace](https://www.surplace.fr/a-propos/) that will show gear ratio, skid patch, development, equivalent gearing and other useful info based on your gears and tires.
 * [Pyxelate](https://github.com/blackstream-x/pyxelate) – open source GUI script written in Python to partially pixelate images or short video clips. Uses ffmpeg.
   * https://twitter.com/Wikinaut/status/1443866702866010152?s=20
-  * ![grafik](https://user-images.githubusercontent.com/1151915/135991931-78eeaab3-4bcf-4966-aa64-9587f1c333f3.png)
+  ![grafik](https://user-images.githubusercontent.com/1151915/135991931-78eeaab3-4bcf-4966-aa64-9587f1c333f3.png)
 * [(Traffic) tally](https://tally.wikinaut.de/) "tally", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and you can count items (fpr example, when you count traffic this would be bicycles, cars, busses for example). The list and names of items can be easily configured and is save in the browser's local storage (no data on the server).
   * [Website](https://tally.wikinaut.de/)
   * [Code](https://github.com/Wikinaut/tally)
-  * ![grafik](https://user-images.githubusercontent.com/1151915/135992082-839d53f0-1c85-46bf-80f5-cfaa0d8bdcba.png)
+  ![grafik](https://user-images.githubusercontent.com/1151915/135992082-839d53f0-1c85-46bf-80f5-cfaa0d8bdcba.png)
 
 
 
