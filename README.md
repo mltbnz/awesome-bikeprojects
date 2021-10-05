@@ -83,6 +83,8 @@ Jump to
 * [(Traffic) tally](https://tally.wikinaut.de/) "tally", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and you can count items (fpr example, when you count traffic this would be bicycles, cars, busses for example). The list and names of items can be easily configured and is save in the browser's local storage (no data on the server).
   * [Website](https://tally.wikinaut.de/)
   * [Code](https://github.com/Wikinaut/tally)
+  * ![grafik](https://user-images.githubusercontent.com/1151915/135992082-839d53f0-1c85-46bf-80f5-cfaa0d8bdcba.png)
+
 
 
 ## Verkehrszählung
