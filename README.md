@@ -63,7 +63,7 @@ Jump to
 * [Mitradgelegenheit](http://mitradgelegenheit.org/) - Website to organize small critical masses on for every day rides like going to work or a trip to the lake.
 * [OSM Conflator](https://github.com/mapsme/osm_conflate). This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 * Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Website](https://www.weg-li.de/)
+  * [Website](https://www.weg.li/)
   * [Github](https://github.com/weg-li/weg-li) Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  https://cloud.google.com/vision/docs/request?hl=de siehe https://twitter.com/ulid000/status/1174061217477996546?s=20
 * Falschparkeranzeige erstellen (experimentell; auf Berliner Bußgeldstelle zugeschnitten, läuft datensparsam im Browser, erstellt E-Mail, benutzt OSM)
   * [Website](https://bl.ocks.org/Wikinaut/raw/f4389e7086f9c29f10c8f854183dacab/)
