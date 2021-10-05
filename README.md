@@ -81,6 +81,14 @@ Jump to
 * [Pyxelate](https://github.com/blackstream-x/pyxelate) – open source GUI script written in Python to partially pixelate images or short video clips. Uses ffmpeg.
   * https://twitter.com/Wikinaut/status/1443866702866010152?s=20
   ![grafik](https://user-images.githubusercontent.com/1151915/135991931-78eeaab3-4bcf-4966-aa64-9587f1c333f3.png)
+* [Deshaking videos](https://github.com/Wikinaut/utils/wiki#deshaking_video)
+  ```
+  # pass1
+  ffmpeg -i input.mp4 -vf vidstabdetect -f null -   
+  # pass2   
+  ffmpeg -i input.mp4 -vf vidstabtransform=crop=black:smoothing=20,unsharp=5:5:0.8:3:3:0.4 output.mp4   
+  ```
+
 * [(Traffic) tally](https://tally.wikinaut.de/) "tally", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and you can count items (fpr example, when you count traffic this would be bicycles, cars, busses for example). The list and names of items can be easily configured and is save in the browser's local storage (no data on the server).
   * [Website](https://tally.wikinaut.de/)
   * [Code](https://github.com/Wikinaut/tally)
