@@ -128,6 +128,10 @@ Was ist der öffentlich Raum eigentlich wert?
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
 * [Falschparker-Karte](http://wege-frei.heikozelt.de/) Map about illegal parking in Germany as reported by citizens via Wegeheld app and weg-li.de website.
 * [unfallatlas.statistikportal.de](https://unfallatlas.statistikportal.de): The Accident Atlas contains accidents with personal injury. Accidents involving only material damage are not shown
+* Bundeseinheitlicher Tatbestandskatalog (Bußgeldkatalog) in lesbarer Form:
+  * https://fragdenstaat.de/anfrage/bundeseinheitlicher-tatbestandskatalog-bt-kat-owi-in-maschinenlesbarer-form/
+  * Datei (ods mit "^" als Feldtrenner) https://fragdenstaat.de/files/foi/499093/bet_datenbank_18052020_txt.asc?download
+
 
 ### Global
 
