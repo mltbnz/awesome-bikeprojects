@@ -120,9 +120,10 @@ Was ist der öffentlich Raum eigentlich wert?
 * [car-tagging-data-berlin](https://github.com/hanshack/car-tagging-data-berlin): This repo is about the data collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin
 * [Verkehrsunfaelle-in-berlin-auf-einer-karte](https://interaktiv.tagesspiegel.de/lab/alle-schlimmen-verkehrsunfaelle-in-berlin-auf-einer-karte/): The analysis of all accidents in which people had accidents in 2019
 * [infravelo.de/karte](https://www.infravelo.de/karte/): This map shows projects from infraVelo and the Berlin districts that are currently being actively worked on or that have been completed after 2016
-* „Digitale Plattform Stadtverkehr Berlin“ (DPS Berlin) – Open Traffic Data for Berlin.
+* „Digitale Plattform Stadtverkehr Berlin“ (DPS Berlin) – Open Data: Open Traffic Data for Berlin.
   * https://www.berlin.de/sen/uvk/verkehr/verkehrspolitik/forschungs-und-entwicklungsprojekte/laufende-projekte/digitale-plattform-stadtverkehr-1099960.php
   * https://daten.berlin.de/kategorie/verkehr
+  * [Pressemitteilung 20210930](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2021/pressemitteilung.1131619.php) Neue Daten und neue Technik bringen mehr Verkehrsinformationen für Berlin
 
 ### Germany
 
