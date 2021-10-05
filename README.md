@@ -78,6 +78,10 @@ Jump to
 * [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide)
 * [FFGC (Fantastic Fixed Gear Calculator)](https://www.surplace.fr/ffgc/) Online tool by [surplace](https://www.surplace.fr/a-propos/) that will show gear ratio, skid patch, development, equivalent gearing and other useful info based on your gears and tires.
 * [Pyxelate](https://github.com/blackstream-x/pyxelate) – open source GUI script written in Python to partially pixelate images or short video clips. Uses ffmpeg.
+* [(Traffic) tally](https://tally.wikinaut.de/) "tally", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and you can count items (fpr example, when you count traffic this would be bicycles, cars, busses for example). The list and names of items can be easily configured and is save in the browser's local storage (no data on the server).
+* * Web https://tally.wikinaut.de/
+* * Code 
+
 
 ## Verkehrszählung
 
