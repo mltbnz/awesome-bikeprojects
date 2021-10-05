@@ -77,6 +77,7 @@ Jump to
 * [Byke](https://github.com/schienenersatzverkehr/byke): This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 * [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide)
 * [FFGC (Fantastic Fixed Gear Calculator)](https://www.surplace.fr/ffgc/) Online tool by [surplace](https://www.surplace.fr/a-propos/) that will show gear ratio, skid patch, development, equivalent gearing and other useful info based on your gears and tires.
+* [Pyxelate](https://github.com/blackstream-x/pyxelate) – open source GUI script written in Python to partially pixelate images or short video clips. Uses ffmpeg.
 
 ## Verkehrszählung
 
