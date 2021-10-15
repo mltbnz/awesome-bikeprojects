@@ -9,6 +9,7 @@ Jump to
 
 - [Projects](#projects)
 - [Open Data](#open-data)
+- [Berlin](#Berlin)
 - [Meetups](#meetups)
 - [Other aweseome lists](#other-awesome-lists)
 
@@ -137,6 +138,7 @@ Was ist der öffentlich Raum eigentlich wert?
   * https://www.berlin.de/sen/uvk/verkehr/verkehrspolitik/forschungs-und-entwicklungsprojekte/laufende-projekte/digitale-plattform-stadtverkehr-1099960.php
   * https://daten.berlin.de/kategorie/verkehr
   * [Pressemitteilung 20210930](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2021/pressemitteilung.1131619.php) Neue Daten und neue Technik bringen mehr Verkehrsinformationen für Berlin
+* [Polizei Berlin - Karte der Direktionen und Abschnitte](https://daten.berlin.de/datensaetze/polizeidirektionen-und-abschnitte-wms)
 
 ### Germany
 
