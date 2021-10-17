@@ -139,6 +139,7 @@ Was ist der öffentlich Raum eigentlich wert?
   * https://daten.berlin.de/kategorie/verkehr
   * [Pressemitteilung 20210930](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2021/pressemitteilung.1131619.php) Neue Daten und neue Technik bringen mehr Verkehrsinformationen für Berlin
 * [Polizei Berlin - Karte der Direktionen und Abschnitte](https://daten.berlin.de/datensaetze/polizeidirektionen-und-abschnitte-wms)
+* [Fahrraddiebstähle in Berlin](https://fahrraddiebstahl-berlin.de/) - [Daten](https://fahrraddiebstahl-berlin.de/daten) - Twitter https://twitter.com/DiebstahlBerlin
 
 ### Germany
 
