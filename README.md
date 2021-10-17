@@ -43,7 +43,7 @@ Jump to
 * Verkehrsunfallstatistik - Parser and maps for Berlin's yearly bike accident reports to get the number of accidents per street.
   * [Map](https://stefanwehrmeyer.carto.com/viz/e11e4a59-8d7c-465c-a001-00970c793184/public_map) 
   * [GitHub](https://github.com/stefanw/verkehrsunfallstatistik)
-* [Unfallatlas](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_310_46241.html)"
+* [Unfallatlas](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_310_46241.html)
   * [Map](https://unfallatlas.statistikportal.de/)
   * [Interaktive Karte vom Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/alle-unfaelle-berlins-auf-einer-karte/)
 * [weg-li](https://www.weg-li.de/) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) and it uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible.
