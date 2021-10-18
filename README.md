@@ -2,13 +2,14 @@
 
 # About
 
-A curated list of awesome bikeprojects including bike sport, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mltbnz/awesome-bikeprojects/blob/master/CONTRIBUTING.md).   
+A curated list of awesome bike and traffic projects including bike sport, commuting, open data, data visualization, data analytics, data journalism, urban planing, crowdsourcing. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/Wikinaut/awesome-bikeprojects/blob/master/CONTRIBUTING.md).   
 
 
 Jump to
 
 - [Projects](#projects)
 - [Open Data](#open-data)
+- [Berlin](#Berlin)
 - [Meetups](#meetups)
 - [Other aweseome lists](#other-awesome-lists)
 
@@ -42,7 +43,7 @@ Jump to
 * Verkehrsunfallstatistik - Parser and maps for Berlin's yearly bike accident reports to get the number of accidents per street.
   * [Map](https://stefanwehrmeyer.carto.com/viz/e11e4a59-8d7c-465c-a001-00970c793184/public_map) 
   * [GitHub](https://github.com/stefanw/verkehrsunfallstatistik)
-* [Unfallatlas](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_310_46241.html)"
+* [Unfallatlas](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_310_46241.html)
   * [Map](https://unfallatlas.statistikportal.de/)
   * [Interaktive Karte vom Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/alle-unfaelle-berlins-auf-einer-karte/)
 * [weg-li](https://www.weg-li.de/) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) and it uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible.
@@ -53,15 +54,20 @@ Jump to
 * [https://biking.michael-simons.eu](https://biking.michael-simons.eu) - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2)) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 * [Fahrraddaten-Canvas](https://github.com/ulid000/fahrraddaten-canvas) - Template for documentation, discovery or ideation of Open Data for cycling and bicyle urbanism on a single sheet of paper. (German)
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
+* [Bikerouter](https://bikerouter.de) - Web client for BRouter, a routing engine based on OpenStreetMap.
+  * [Website](https://bikerouter.de)
+  * [GitHub](https://github.com/nrenner/brouter-web)
 * MotionTag - App for [Android](https://play.google.com/store/apps/details?id=de.motiontag.motiontag&hl=de) and [iOS](https://itunes.apple.com/de/app/motiontag/id1083164072) tracking your mobility behavior automatically offering reports with modal split and CO2 emission. Based on their [mobility analysis platform](https://www.motion-tag.com/en/mobility/).  (Closed source, disadvantage: no API for consumers to get your own data)
 * Abstandsrechner - A JS tool to measure the distance between car and cyclist. Estimate distance between car overtaking and bike based on camera photos using road markings as reference.
   * [Website](https://wiki.fricklers.org/abstand.html) 
   * [GitHub](https://github.com/hollma/abstandrechner)
+  ![grafik](https://user-images.githubusercontent.com/1151915/135992288-48a1b59d-cc19-45f1-bbb0-187a5fd1169d.png)
+
 * [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 * [Mitradgelegenheit](http://mitradgelegenheit.org/) - Website to organize small critical masses on for every day rides like going to work or a trip to the lake.
 * [OSM Conflator](https://github.com/mapsme/osm_conflate). This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 * Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Website](https://www.weg-li.de/)
+  * [Website](https://www.weg.li/)
   * [Github](https://github.com/weg-li/weg-li) Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  https://cloud.google.com/vision/docs/request?hl=de siehe https://twitter.com/ulid000/status/1174061217477996546?s=20
 * Falschparkeranzeige erstellen (experimentell; auf Berliner Bußgeldstelle zugeschnitten, läuft datensparsam im Browser, erstellt E-Mail, benutzt OSM)
   * [Website](https://bl.ocks.org/Wikinaut/raw/f4389e7086f9c29f10c8f854183dacab/)
@@ -73,10 +79,20 @@ Jump to
 * [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 2.0.
 * Interaktive [Kartenvisualisierung der Wegeheld-Meldungen](https://map-nerd.maps.arcgis.com/apps/webappviewer/index.html?id=d753a3c2b5d24b48b717c94b7002fcc5) - siehe https://twitter.com/rad_ritter/status/1177231465668587520
 * [bikeparking.lorenz.lu](https://bikeparking.lorenz.lu/) - Datenabgleich von Fahrradparkplätzen aus den OSM-Daten mit OpenData-Datensätzen aus Berlin und anderen Städten. Man kann sehen, wo in OSM Daten fehlen. Und Statistiken über die Fahrradstellplätze nach Stadt/Region ausgeben lassen.
-* [Streetmix](https://streetmix.net): Design, remix, and share your street. Add bike paths, widen sidewalks or traffic lanes, learn how all of this can impact your community.
 * [Byke](https://github.com/schienenersatzverkehr/byke): This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
 * [OSM Bike Ottawa Tagging Guide](https://github.com/BikeOttawa/OSM-Bike-Ottawa-Tagging-Guide)
 * [FFGC (Fantastic Fixed Gear Calculator)](https://www.surplace.fr/ffgc/) Online tool by [surplace](https://www.surplace.fr/a-propos/) that will show gear ratio, skid patch, development, equivalent gearing and other useful info based on your gears and tires.
+* [Pyxelate](https://github.com/blackstream-x/pyxelate) – open source GUI script written in Python to partially pixelate images or short video clips. Uses ffmpeg.
+  * https://twitter.com/Wikinaut/status/1443866702866010152?s=20
+  ![grafik](https://user-images.githubusercontent.com/1151915/135991931-78eeaab3-4bcf-4966-aa64-9587f1c333f3.png)
+* [Deshaking videos](https://github.com/Wikinaut/utils/wiki#deshaking_video)
+  ```
+  # pass1
+  ffmpeg -i input.mp4 -vf vidstabdetect -f null -   
+  # pass2   
+  ffmpeg -i input.mp4 -vf vidstabtransform=crop=black:smoothing=20,unsharp=5:5:0.8:3:3:0.4 output.mp4   
+  ```
+
 
 ## Verkehrszählung
 
@@ -86,6 +102,10 @@ Jump to
 * CityLab: [Open Traffic Count](https://www.citylab-berlin.org/projects/trafficcount/)
 * Visual Count ([siehe unten](#no-2---23102018-motionlab))
 * [Open Data Cam](https://www.move-lab.com/project/opendatacam/#about) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Website](https://opendata.cam/). [Github](https://github.com/opendatacam/opendatacam).
+* [(Traffic) tally](https://tally.wikinaut.de/) "tally", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and lets you count items (for example, when you count traffic the items would be bicycles, cars, busses and so on). The list and also the names of the items can be easily configured and is saved in the browser's local storage (no data is stored on the server).
+  * [Website](https://tally.wikinaut.de/)
+  * [Code](https://github.com/Wikinaut/tally)
+  ![grafik](https://user-images.githubusercontent.com/1151915/135992082-839d53f0-1c85-46bf-80f5-cfaa0d8bdcba.png)
 
 
 ## Open Data
@@ -115,6 +135,12 @@ Was ist der öffentlich Raum eigentlich wert?
 * [car-tagging-data-berlin](https://github.com/hanshack/car-tagging-data-berlin): This repo is about the data collected by volunteers using a map tagging tool which was developed to tag cars on aerial images from the city of Berlin
 * [Verkehrsunfaelle-in-berlin-auf-einer-karte](https://interaktiv.tagesspiegel.de/lab/alle-schlimmen-verkehrsunfaelle-in-berlin-auf-einer-karte/): The analysis of all accidents in which people had accidents in 2019
 * [infravelo.de/karte](https://www.infravelo.de/karte/): This map shows projects from infraVelo and the Berlin districts that are currently being actively worked on or that have been completed after 2016
+* „Digitale Plattform Stadtverkehr Berlin“ (DPS Berlin) – Open Data: Open Traffic Data for Berlin.
+  * https://www.berlin.de/sen/uvk/verkehr/verkehrspolitik/forschungs-und-entwicklungsprojekte/laufende-projekte/digitale-plattform-stadtverkehr-1099960.php
+  * https://daten.berlin.de/kategorie/verkehr
+  * [Pressemitteilung 20210930](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2021/pressemitteilung.1131619.php) Neue Daten und neue Technik bringen mehr Verkehrsinformationen für Berlin
+* [Polizei Berlin - Karte der Direktionen und Abschnitte](https://daten.berlin.de/datensaetze/polizeidirektionen-und-abschnitte-wms)
+* [Fahrraddiebstähle in Berlin](https://fahrraddiebstahl-berlin.de/) - [Daten](https://fahrraddiebstahl-berlin.de/daten) - Twitter https://twitter.com/DiebstahlBerlin
 
 ### Germany
 
@@ -123,6 +149,10 @@ Was ist der öffentlich Raum eigentlich wert?
 * [MunichWays ](https://www.munichways.com/) visualization and analyzes of all major roads in Munich according to the traffic light principle. ([code](https://github.com/AppWerft/MunichWays)), ([map](https://usocialmaps.carto.com/builder/dfd7b295-73a7-4dfe-85e6-933dd7fe5787/embed))
 * [Falschparker-Karte](http://wege-frei.heikozelt.de/) Map about illegal parking in Germany as reported by citizens via Wegeheld app and weg-li.de website.
 * [unfallatlas.statistikportal.de](https://unfallatlas.statistikportal.de): The Accident Atlas contains accidents with personal injury. Accidents involving only material damage are not shown
+* Bundeseinheitlicher Tatbestandskatalog (Bußgeldkatalog) in lesbarer Form:
+  * https://fragdenstaat.de/anfrage/bundeseinheitlicher-tatbestandskatalog-bt-kat-owi-in-maschinenlesbarer-form/
+  * Datei (ods mit "^" als Feldtrenner) https://fragdenstaat.de/files/foi/499093/bet_datenbank_18052020_txt.asc?download
+
 
 ### Global
 
