@@ -93,7 +93,7 @@ Jump to
   ffmpeg -i input.mp4 -vf vidstabtransform=crop=black:smoothing=20,unsharp=5:5:0.8:3:3:0.4 output.mp4   
   ```
 
-* [(Traffic) tally](https://tally.wikinaut.de/) "tally", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and you can count items (fpr example, when you count traffic this would be bicycles, cars, busses for example). The list and names of items can be easily configured and is save in the browser's local storage (no data on the server).
+* [(Traffic) tally](https://tally.wikinaut.de/) "tally", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and lets you count items (for example, when you count traffic the items would be bicycles, cars, busses and so on). The list and also the names of then items can be easily configured and is saved in the browser's local storage (no data is stored on the server).
   * [Website](https://tally.wikinaut.de/)
   * [Code](https://github.com/Wikinaut/tally)
   ![grafik](https://user-images.githubusercontent.com/1151915/135992082-839d53f0-1c85-46bf-80f5-cfaa0d8bdcba.png)
