@@ -46,7 +46,6 @@ Jump to
 * [Unfallatlas](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_310_46241.html)
   * [Map](https://unfallatlas.statistikportal.de/)
   * [Interaktive Karte vom Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/alle-unfaelle-berlins-auf-einer-karte/)
-* [weg-li](https://www.weg-li.de/) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/) and it uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible.
 * Wegeheld - App for [Android](https://play.google.com/store/apps/details?id=org.wegeheld) and [iOS](https://itunes.apple.com/de/app/wegeheld/id970336756) allowing citizens to report parking violations e.g. parking on sidewalks or cycling infrastruture to the police or the municipal office responsible for public order (Closed Source by now)
 * [(Vereinfachte) Verkehrsordnungswidrigkeitenanzeige bei Halt- und Parkverstößen in Berlin](https://jsfiddle.net/spy2eh0h/44) - Web page for creating an eMail to Berlin Police to report parking violations based on a template containing all information needed. Extracts location data from photo including reverse geocoding.
   * Copy of the jsfiddle (from 2019-06-18) as a Github Gist which can be [edited more easily](https://gist.github.com/tordans/9495504789d52e503bbe0022e592e451) and provides [a standalone webpage of the gist](https://bl.ocks.org/tordans/raw/9495504789d52e503bbe0022e592e451/).
@@ -66,8 +65,8 @@ Jump to
 * [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 * [Mitradgelegenheit](http://mitradgelegenheit.org/) - Website to organize small critical masses on for every day rides like going to work or a trip to the lake.
 * [OSM Conflator](https://github.com/mapsme/osm_conflate). This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
-* Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
-  * [Website](https://www.weg.li/)
+* [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/), uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
+  * [Website](https://weg.li)
   * [Github](https://github.com/weg-li/weg-li) Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  https://cloud.google.com/vision/docs/request?hl=de siehe https://twitter.com/ulid000/status/1174061217477996546?s=20
 * Falschparkeranzeige erstellen (experimentell; auf Berliner Bußgeldstelle zugeschnitten, läuft datensparsam im Browser, erstellt E-Mail, benutzt OSM)
   * [Website](https://bl.ocks.org/Wikinaut/raw/f4389e7086f9c29f10c8f854183dacab/)
