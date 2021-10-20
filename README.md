@@ -7,11 +7,21 @@ A curated list of awesome bike and traffic projects including bike sport, commut
 
 Jump to
 
-- [Projects](#projects)
-- [Open Data](#open-data)
-- [Berlin](#Berlin)
-- [Meetups](#meetups)
-- [Other aweseome lists](#other-awesome-lists)
+- [About](#about)
+  - [Projects](#projects)
+  - [Verkehrszählung](#verkehrszählung)
+  - [Open Data](#open-data)
+    - [Berlin](#berlin)
+    - [Germany](#germany)
+    - [Global](#global)
+  - [Meetups](#meetups)
+    - [OSM-Verkehrswende Meeetups](#osm-verkehrswende-meeetups)
+    - [Berlin Datacycle Meetup Slides and Links](#berlin-datacycle-meetup-slides-and-links)
+      - [No. 4 - 19.06.2019, CityLab](#no-4---19062019-citylab)
+      - [No. 3 - 15.01.2019, betterplace.org](#no-3---15012019-betterplaceorg)
+      - [No. 2 - 23.10.2018, Motion.Lab](#no-2---23102018-motionlab)
+      - [No. 1 - 21.08.2018, Tagesspiegel](#no-1---21082018-tagesspiegel)
+  - [Other awesome lists](#other-awesome-lists)
 
 
 ## Projects
