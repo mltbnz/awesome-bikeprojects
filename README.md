@@ -101,7 +101,7 @@ Jump to
   # pass2   
   ffmpeg -i input.mp4 -vf vidstabtransform=crop=black:smoothing=20,unsharp=5:5:0.8:3:3:0.4 output.mp4   
   ```
-
+* [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) - A tool / web app for displaying various bicycle infrastructure related data on a map
 
 ## Verkehrszählung
 
