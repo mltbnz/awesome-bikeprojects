@@ -103,6 +103,9 @@ Jump to
   ```
 * [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) - A tool / web app for displaying various bicycle infrastructure related data on a map
 * [Ping if you care](https://pingifyoucare.eu/amsterdam/) In 2019, @AmsterdamNL equipped 700 cyclists with a device that allowed them to "ping" when encountering a complicated, clumsy or unsafe traffic situation. https://twitter.com/Cycling_Embassy/status/1478034053593014274
+* [Straßenraumkarte Neukölln mit hohem Detailgrad](https://supaplexosm.github.io/strassenraumkarte-neukoelln/) Die Straßenraumkarte https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap#20/52.47593/13.43962 für Neukölln zeigt jetzt Radwege in Farbe und hohem Detailgrad
+  *  https://twitter.com/osmberlin/status/1477570189822775296
+  *  Blogpost https://supaplexosm.github.io/strassenraumkarte-neukoelln/posts/2021-12-31-micromap-update
 
 ## Verkehrszählung
 
