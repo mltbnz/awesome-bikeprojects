@@ -102,6 +102,7 @@ Jump to
   ffmpeg -i input.mp4 -vf vidstabtransform=crop=black:smoothing=20,unsharp=5:5:0.8:3:3:0.4 output.mp4   
   ```
 * [Bicycle Master Plan](https://github.com/nekromoff/bicycle-master-plan) - A tool / web app for displaying various bicycle infrastructure related data on a map
+* [Ping if you care](https://pingifyoucare.eu/amsterdam/) In 2019, @AmsterdamNL equipped 700 cyclists with a device that allowed them to "ping" when encountering a complicated, clumsy or unsafe traffic situation. https://twitter.com/Cycling_Embassy/status/1478034053593014274
 
 ## Verkehrszählung
 
