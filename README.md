@@ -109,6 +109,9 @@ Jump to
 
 ## Verkehrszählung
 
+* [Telraam](https://telraam.net/) Verkehrszählungen (lokal und per Netzwerk/Karte) per Raspberrry Pi, Kamera und Software
+  * [Karte/Map](https://telraam.net/en)
+  * [Selbstbau/DIY](https://telraam.zendesk.com/hc/en-us/articles/360025328311-Do-it-yourself-Assemble-Telraam-by-yourself)
 * Research Apps
   * [counterpointapp.org](https://www.counterpointapp.org/) ([nicht OpenSource](https://twitter.com/counterpointapp/status/1255218427431714817))
   * "[Vzapp - Verkehr zählen per App](https://play.google.com/store/apps/details?id=de.vzapp.vzappApp&hl=de)" (Android
