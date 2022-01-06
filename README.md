@@ -15,7 +15,7 @@ Jump to
     - [Germany](#germany)
     - [Global](#global)
   - [Meetups](#meetups)
-    - [OSM-Verkehrswende Meeetups](#osm-verkehrswende-meeetups)
+    - [OSM-Verkehrswende Meetups](#osm-verkehrswende-meetups)
     - [Berlin Datacycle Meetup Slides and Links](#berlin-datacycle-meetup-slides-and-links)
       - [No. 4 - 19.06.2019, CityLab](#no-4---19062019-citylab)
       - [No. 3 - 15.01.2019, betterplace.org](#no-3---15012019-betterplaceorg)
@@ -177,7 +177,7 @@ Was ist der öffentlich Raum eigentlich wert?
 
 ## Meetups
 
-### OSM-Verkehrswende Meeetups
+### OSM-Verkehrswende Meetups
 
 https://wiki.openstreetmap.org/wiki/Talk:Berlin/Verkehrswende
 
