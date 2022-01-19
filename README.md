@@ -85,7 +85,7 @@ Jump to
   * https://www.openalpr.com/
   * Für den Eigengebrauch ist der Free Plan hier eine gute Variante https://www.openalpr.com/cloud-api.html siehe https://twitter.com/weg_li/status/1174058232324808704?s=20
 * [OpenBike](https://ulm.dev/projects/openbike/): Free/Libre-Open-Source-Softwarestack für Fahrradsharing (oder Sharingsysteme generell). Modularer Aufbau mit Standardschnittstellen (Verfügbarkeiten werden über GBFS ausgespielt, etc).
-* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 2.0.
+* [Verkehrszählung mit Open-Source-Tool OpenDataCam](https://www.heise.de/make/meldung/Open-Source-Tool-macht-Verkehrszaehlungen-einfacher-4517810.html) - Wie viele Autos, Fahrräder oder Schafe täglich die Straße nutzen, lässt sich mit der OpenDataCam ermitteln. Das Tool gibt es nun in Version 3.0. [Github](https://github.com/opendatacam/opendatacam)
 * Interaktive [Kartenvisualisierung der Wegeheld-Meldungen](https://map-nerd.maps.arcgis.com/apps/webappviewer/index.html?id=d753a3c2b5d24b48b717c94b7002fcc5) - siehe https://twitter.com/rad_ritter/status/1177231465668587520
 * [bikeparking.lorenz.lu](https://bikeparking.lorenz.lu/) - Datenabgleich von Fahrradparkplätzen aus den OSM-Daten mit OpenData-Datensätzen aus Berlin und anderen Städten. Man kann sehen, wo in OSM Daten fehlen. Und Statistiken über die Fahrradstellplätze nach Stadt/Region ausgeben lassen.
 * [Byke](https://github.com/schienenersatzverkehr/byke): This project explores the feasability of quantifying the bicycle lane surface roughness using an accelerometer
@@ -119,7 +119,7 @@ Jump to
   * "[Vzapp - Verkehr zählen per App](https://play.google.com/store/apps/details?id=de.vzapp.vzappApp&hl=de)" (Android
 * CityLab: [Open Traffic Count](https://www.citylab-berlin.org/projects/trafficcount/)
 * Visual Count ([siehe unten](#no-2---23102018-motionlab))
-* [Open Data Cam](https://www.move-lab.com/project/opendatacam/#about) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Website](https://opendata.cam/). [Github](https://github.com/opendatacam/opendatacam).
+* [Open Data Cam](https://opendata.cam) - 'Open Data Cam' is a tool that helps to quantify the world. The best thing about it: You can make it yourself! With computer vision 'Open Data Cam' understands and quantifies what it sees. The simple setup allows everybody to become an urban data miner. [Github](https://github.com/opendatacam/opendatacam)
 * [(Traffic) tally](https://tally.wikinaut.de/) "tally", engl. counter, list. The tool works in the browser (Desktop, Smartphone…) and lets you count items (for example, when you count traffic the items would be bicycles, cars, busses and so on). The list and also the names of the items can be easily configured and is saved in the browser's local storage (no data is stored on the server).
   * [Website](https://tally.wikinaut.de/)
   * [Code](https://github.com/Wikinaut/tally)
