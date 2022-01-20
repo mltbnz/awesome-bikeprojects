@@ -70,6 +70,7 @@ Jump to
 * Abstandsrechner - A JS tool to measure the distance between car and cyclist. Estimate distance between car overtaking and bike based on camera photos using road markings as reference.
   * [Website](https://wiki.fricklers.org/abstand.html) 
   * [GitHub](https://github.com/hollma/abstandrechner)
+  * [Dokumentation](https://wiki.fricklers.org/doku.php/abstand)
   ![grafik](https://user-images.githubusercontent.com/1151915/135992288-48a1b59d-cc19-45f1-bbb0-187a5fd1169d.png)
 
 * [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
