@@ -56,10 +56,6 @@ Jump to
 * [Unfallatlas](https://www.destatis.de/DE/Presse/Pressemitteilungen/2019/08/PD19_310_46241.html)
   * [Map](https://unfallatlas.statistikportal.de/)
   * [Interaktive Karte vom Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/alle-unfaelle-berlins-auf-einer-karte/)
-* Wegeheld - App for [Android](https://play.google.com/store/apps/details?id=org.wegeheld) and [iOS](https://itunes.apple.com/de/app/wegeheld/id970336756) allowing citizens to report parking violations e.g. parking on sidewalks or cycling infrastruture to the police or the municipal office responsible for public order (Closed Source by now)
-* [(Vereinfachte) Verkehrsordnungswidrigkeitenanzeige bei Halt- und Parkverstößen in Berlin](https://jsfiddle.net/spy2eh0h/44) - Web page for creating an eMail to Berlin Police to report parking violations based on a template containing all information needed. Extracts location data from photo including reverse geocoding.
-  * Copy of the jsfiddle (from 2019-06-18) as a Github Gist which can be [edited more easily](https://gist.github.com/tordans/9495504789d52e503bbe0022e592e451) and provides [a standalone webpage of the gist](https://bl.ocks.org/tordans/raw/9495504789d52e503bbe0022e592e451/).
-* [Abschlapp](https://github.com/stefanw/abschlapp) - First prototype of a mobile app guiding pedestrians and cyclists to get Berlin Police to tow cars from cycling infrastructure and sidewalks based on the [instructions by Autofreies Kreuzberg](https://www.autofreies-kreuzberg.de/radwege-frei.html) 
 * [https://biking.michael-simons.eu](https://biking.michael-simons.eu) - Michael Simons's private web tool to manage his bikes and tracks but also a sample application ([Repository](https://github.com/michael-simons/biking2)) to learn both modern server side Java with Spring Boot and software architecture documentation using on the Arc42 template
 * [Fahrraddaten-Canvas](https://github.com/ulid000/fahrraddaten-canvas) - Template for documentation, discovery or ideation of Open Data for cycling and bicyle urbanism on a single sheet of paper. (German)
 * [BBBike](http://www.bbbike.de/cgi-bin/bbbike.cgi) - A route-finder for cyclists in Berlin and Brandenburg. Developed since 1996 (10 years before the first release of Google Maps!) and still very useful due to own quality attributes like surface, number of traffic lights etc. that are not available in OSM or Google Maps.
@@ -80,8 +76,15 @@ Jump to
   * [Website](https://weg.li)
   * [Github](https://github.com/weg-li/weg-li) Unter Verwendung des Google::Cloud::Vision::ImageAnnotator  https://cloud.google.com/vision/docs/request?hl=de siehe https://twitter.com/ulid000/status/1174061217477996546?s=20
 * Falschparkeranzeige erstellen (experimentell; auf Berliner Bußgeldstelle zugeschnitten, läuft datensparsam im Browser, erstellt E-Mail, benutzt OSM)
-  * [Website](https://bl.ocks.org/Wikinaut/raw/f4389e7086f9c29f10c8f854183dacab/)
-  * [Code](https://gist.github.com/Wikinaut/f4389e7086f9c29f10c8f854183dacab)
+  * [Website](https://wikinaut.github.io/bowi)
+  * [Code](https://github.com/Wikinaut/bowi)
+* Falschparkeranzeige erstellen (experimentell; auf Magdeburger Bußgeldstelle zugeschnitten, läuft datensparsam im Browser, erstellt PDF für E-Mail) https://twitter.com/komaspieler/status/1482100175946407938
+  * [Webseite](https://owianzeige.einformular.de/)
+  * [Code](https://github.com/komaspieler/owianzeige)
+* Wegeheld - App for [Android](https://play.google.com/store/apps/details?id=org.wegeheld) and [iOS](https://itunes.apple.com/de/app/wegeheld/id970336756) allowing citizens to report parking violations e.g. parking on sidewalks or cycling infrastruture to the police or the municipal office responsible for public order (Closed Source by now)
+* [(Vereinfachte) Verkehrsordnungswidrigkeitenanzeige bei Halt- und Parkverstößen in Berlin](https://jsfiddle.net/spy2eh0h/44) - Web page for creating an eMail to Berlin Police to report parking violations based on a template containing all information needed. Extracts location data from photo including reverse geocoding.
+  * Copy of the jsfiddle (from 2019-06-18) as a Github Gist which can be [edited more easily](https://gist.github.com/tordans/9495504789d52e503bbe0022e592e451) and provides [a standalone webpage of the gist](https://bl.ocks.org/tordans/raw/9495504789d52e503bbe0022e592e451/).
+* [Abschlapp](https://github.com/stefanw/abschlapp) - First prototype of a mobile app guiding pedestrians and cyclists to get Berlin Police to tow cars from cycling infrastructure and sidewalks based on the [instructions by Autofreies Kreuzberg](https://www.autofreies-kreuzberg.de/radwege-frei.html) 
 * Kennzeichenerkennung
   * https://www.openalpr.com/
   * Für den Eigengebrauch ist der Free Plan hier eine gute Variante https://www.openalpr.com/cloud-api.html siehe https://twitter.com/weg_li/status/1174058232324808704?s=20
