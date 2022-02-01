@@ -110,6 +110,10 @@ Jump to
 * [Straßenraumkarte Neukölln mit hohem Detailgrad](https://supaplexosm.github.io/strassenraumkarte-neukoelln/) Die Straßenraumkarte https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap#20/52.47593/13.43962 für Neukölln zeigt jetzt Radwege in Farbe und hohem Detailgrad
   *  https://twitter.com/osmberlin/status/1477570189822775296
   *  Blogpost https://supaplexosm.github.io/strassenraumkarte-neukoelln/posts/2021-12-31-micromap-update
+* [Bike Data Project](https://www.bikedataproject.org) - Citizens collecting cycling data to make cities more bike-friendly
+  * Data: https://wiki.bikedataproject.org/open-cycling-data/bicycle-counts
+  * Github: https://github.com/bikedataproject
+
 
 ## Verkehrszählung
 
