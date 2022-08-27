@@ -67,7 +67,8 @@ Jump to
   * [Website](https://wiki.fricklers.org/abstand.html) 
   * [GitHub](https://github.com/hollma/abstandrechner)
   * [Dokumentation](https://wiki.fricklers.org/doku.php/abstand)
-  ![grafik](https://user-images.githubusercontent.com/1151915/135992288-48a1b59d-cc19-45f1-bbb0-187a5fd1169d.png)
+  ![grafik](https://user-images.githubusercontent.com/1151915/187042815-bd585220-23c7-4852-a073-c46b95bb41eb.png)
+
 
 * [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 * [Mitradgelegenheit](http://mitradgelegenheit.org/) - Website to organize small critical masses on for every day rides like going to work or a trip to the lake.
