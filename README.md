@@ -185,9 +185,9 @@ Was ist der öffentlich Raum eigentlich wert?
 * Bundeseinheitlicher Tatbestandskatalog (Bußgeldkatalog) in lesbarer Form:
   * https://fragdenstaat.de/anfrage/bundeseinheitlicher-tatbestandskatalog-bt-kat-owi-in-maschinenlesbarer-form/
   * Datei (ods mit "^" als Feldtrenner) https://fragdenstaat.de/files/foi/499093/bet_datenbank_18052020_txt.asc?download
-* https://natenom.de/ Natenoms Blog – mit vielen interessanten Beiträgen.
+* https://natenom.de/ Natenoms (&dagger; 30.01.2024) Blog – mit vielen interessanten Beiträgen.
   * Auswahl:
-  * https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/ Eine Heatmap aus GPX-Daten erstellen (Python)
+  * https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/ Eine Heatmap aus GPX-Daten erstellen (Python) https://github.com/remisalmon/Strava-local-heatmap
 
 ### Global
 
