@@ -14,6 +14,7 @@ Jump to
     - [Berlin](#berlin)
     - [Germany](#germany)
     - [Global](#global)
+  - [Ladegeräte Nabendynamo → USB](#Ladegeräte Nabendynamo → USB)
   - [Meetups](#meetups)
     - [OSM-Verkehrswende Meetups](#osm-verkehrswende-meetups)
     - [Berlin Datacycle Meetup Slides and Links](#berlin-datacycle-meetup-slides-and-links)
