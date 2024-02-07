@@ -140,7 +140,6 @@ Jump to
   * [Code](https://github.com/Wikinaut/tally)
   ![grafik](https://user-images.githubusercontent.com/1151915/135992082-839d53f0-1c85-46bf-80f5-cfaa0d8bdcba.png)
 
-
 ## Open Data
 
 * [Aufzugsdaten](https://data.deutschebahn.com/dataset/data-aufzug). Antwort der Deutschen Bahn auf Anfrage/Diskussion über unzureichende Aufzugsgrößen im ÖPNV:
@@ -193,6 +192,30 @@ Was ist der öffentlich Raum eigentlich wert?
 
 * [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) - A data standard and API specification for mobility as a service providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way. Developed by the City of Los Angeles.
 * [The Arrogance of Space Mapping Tool](https://cyklokoalicia.sk/arrogance/) - Upload an aerial or satellite photo from your city - an intersection or neighbourhood - and start mapping how much space is allocated to cars, pedestrians and bikes. See also https://twitter.com/colvilleandersn/status/1197537645657829379 and https://medium.com/@colville_andersen/the-arrogance-of-space-93a7419b0278
+
+## Ladegeräte Nabendynamo → USB
+### Selbstbau
+auch Fertiggeräte von Makern gebaut und angeboten
+* https://fahrradlader.de/ Fahrradlader https://fahrradlader.de/fahrradlader-v3-1/ v3.1– Johannes Rostek  
+  https://www.instructables.com/DIY-BICYCLE-USB-CHARGER-Fahrradlader-V31/ Instructables DIY - [https://content.instructables.com/pdfs/E82/JS1O/KYZUHOCG/DIY-BICYCLE-USB-CHARGER-Fahrradlader-V31.pdf PDF (Login erforderlich)]
+  1A / 5V bei 18km/h-20km/h (5 Watt Ausgangsleistung möglich); Bipolar-Elko; Schottky-Brückengleichrichter; SMD-Aufbau; Überspannungsschutz; Superkondensatoren zum Puffern von kurzen Stops  
+  https://fahrradlader.de/funktionsweise/usb-charge-optimizer/ Charge-Optimizer (nach dem Anfahren wird nach einiger Zeit konstanter Geschwindigkeit der Ladevorgang absichtlich kurz gestoppt, um optimalen Ladestrom neu aushandeln zu können (optional ein/ausschaltbar bzw. konfigurierbar)  
+  DCP (Dedicated Charging Port): Smartphones erkennen den Lader als DCP (Dedicated Charging Port) und das Smartphone (je nach Modell) weiß nun, dass es bis zu 1,8 A ziehen kann. Der Fahrradlader V3.1 wird von allen gängigen Smartphones als DCP erkannt.  
+  30 Euro (Fertigteil ohne Gehäuse beim Entwickler; Gehäuse zzgl. 5 Euro)  
+  https://fahrradbeleuchtung-info.de/testbericht-fahrradlader-v31 Testbericht
+* https://am.heise.de/abo/06_ma_education/Nabendynamo.pdf „Power aus dem Nabendynamo“ MAKE 4/2020 pp.58-63 https://www.heise-gruppe.de/presse/Make-Projekt-USB-Laderegler-fuer-Nabendynamo-selbst-bauen-4865445.html – Andreas Gräßler  
+  ca. 10 Euro; Bipolar-Elko (Kompensation der Induktivität) - Schottky-Brückengleichrichter 4x SB140 - LM2596 DC/DC-Step-Down-Modul Vin 3,2-36 V, Poti; liefert ~500 mA für USB-Powerbank
+* https://fahrradzukunft.de/31/selbstbau-usb-lader-mit-step-down-regler Selbstbau eines USB-Laders mit Step-Down-Regler – Gerold Schütte   
+  Bipolar-Elko 330 uF (bzw. 2x 680 uF antiparallel), Schottky-Brückengleichrichter CS 40D (80 V; 1 A); QITA DC-DC 6V-24V to 5V 3A Step-down Voltage Regulator Power Module Phone Charger; Bimetall-Abschaltung 60°C bei unnützer Wärmeerzeugung. Da der verwendete Step-Down-Regler nur maximal 25 V verträgt, muss die maximale Spannung begrenzt werden. Dies erfolgt hier durch zwei parallel geschaltete 12-V-Zenerdioden, die die übrige Energie »verbraten«. Die Dioden sind auf einem Temperaturschalter montiert, bei 60°C wird der USB-Lader abgeschaltet. Höhere Spannungen wären hier wünschenswert, damit die mühsam erstrampelte Leistung nicht schon bei normaler Fahrt und vollem Handyakku in Wärme umgewandelt wird. Doch die zusätzliche Leistung lässt sich dann nur schwer wegkühlen (@ Andreas Oehler: Danke für den Tipp).
+* http://www.sascha-trapp.de/fahrradlader.html "Mein Fahrradlader" – Sascha Trapp (Radfahren, Segeln, Elektronik)
+* http://www.forumslader.de/ Forumslader – Jens During; ''Forumslader'' pro 2019-2021; Aheadlader V6 2021 155-255 Euro
+* OBI https://www.obi.de/magazin/mach-mal-mit-obi/usb-ladegeraet-selber-bauen
+
+### Fertiggeräte und Tests
+von Markenherstellern
+* https://fahrradbeleuchtung-info.de/marktuebersicht-usb-ladegeraete-fuer-nabendynamos Tests und Marktübersicht
+* https://www.cycle2charge.de/index.php/de/ Cycle2Charge – integriert in den Ahead-Steuersatz
+
 
 ## Meetups
 
