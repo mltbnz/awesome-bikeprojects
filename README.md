@@ -15,7 +15,7 @@ Jump to
     - [Germany](#germany)
     - [Global](#global)
   - [Ladegeräte Nabendynamo → USB](#ladegeräte-nabendynamo--usb)
-  - [Bicycle Gear Calculator (Ritzelrechner)](#bicycle-gear)
+  - [Bicycle Gear Calculator (Ritzelrechner)](#bicycle-gear-calculator-ritzelrechner)
   - [Meetups](#meetups)
     - [OSM-Verkehrswende Meetups](#osm-verkehrswende-meetups)
     - [Berlin Datacycle Meetup Slides and Links](#berlin-datacycle-meetup-slides-and-links)
