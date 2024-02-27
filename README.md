@@ -196,7 +196,7 @@ Was ist der öffentlich Raum eigentlich wert?
 * [The Arrogance of Space Mapping Tool](https://cyklokoalicia.sk/arrogance/) - Upload an aerial or satellite photo from your city - an intersection or neighbourhood - and start mapping how much space is allocated to cars, pedestrians and bikes. See also https://twitter.com/colvilleandersn/status/1197537645657829379 and https://medium.com/@colville_andersen/the-arrogance-of-space-93a7419b0278
 
 ## Bicycle Gear Calculator (Ritzelrechner)
-* [Bicycle Gear Calculator](http://ritzelrechner.de/?GR=DERS&KB=42,52&RZ=15,17,19,21,23,26&UF=2215&TF=90&SL=2.6&UN=KMH&DV=teeth)
+* [Bicycle Gear Calculator (Ritzelrechner)](http://ritzelrechner.de/?GR=DERS&KB=42,52&RZ=15,17,19,21,23,26&UF=2215&TF=90&SL=2.6&UN=KMH&DV=teeth)
 
 ## Ladegeräte Nabendynamo → USB
 ### Selbstbau
