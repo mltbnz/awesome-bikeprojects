@@ -76,7 +76,7 @@ Jump to
   * [GitHub](https://github.com/keneucker/biketag-vue)
   * [About](https://biketag.bike)
 
-* [Commons Booking](https://github.com/wielebenwir/commons-booking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
+* [CommonsBooking](https://github.com/wielebenwir/commonsbooking) - A Wordpress plugin for management and booking of commons goods especially cargo bikes.
 * [Mitradgelegenheit](http://mitradgelegenheit.org/) - Website to organize small critical masses on for every day rides like going to work or a trip to the lake.
 * [OSM Conflator](https://github.com/mapsme/osm_conflate). This is a script for merging points from some third-party source with OpenStreetMap data. After merging and uploading, the data can be updated.
 * [weg-li](https://weg.li) - Website for citizens to report parking violations on sidewalks and bike paths. weg-li [is opensource](https://github.com/weg-li/weg-li/), uses OCR and image-recognition to do ALPR (automated license plate recognition) and other automations to make the process as simple and fast as possible. Falschparkeranzeige erstellen (mit Kennzeichenerkennung, benutzt Google)
