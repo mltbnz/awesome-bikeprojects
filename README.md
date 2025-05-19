@@ -123,6 +123,7 @@ Jump to
  * [Find my (stolen) bike](https://www.heise.de/news/Find-My-Bike-soll-geklaute-Fahrraeder-auf-eBay-Kleinanzeigen-aufspueren-6655032.html) - scan ebay advertisements (work in progress)
 * [sport-activities-features](https://github.com/firefly-cpp/sport-activities-features) - A minimalistic toolbox for extracting features from sports activity files written in Python
 * [AST-Monitor](https://github.com/firefly-cpp/AST-Monitor) - A wearable Raspberry Pi computer for cyclists
+* [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
 
 ## Verkehrszählung
 
