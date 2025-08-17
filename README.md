@@ -284,3 +284,4 @@ https://www.meetup.com/de-DE/Datacycle-Meetup-Fahrraddaten-fur-Berlin/
 ## Other awesome lists
 
 * [Fahrradthemen in OpenStreetMap](https://gist.github.com/tordans/df6794d340a3fc7537601d1d2535e0f9)
+* [3D-printing / Maker: Fahrradausrüstung - Bike gear](https://www.printables.com/contest/486-bike-gear)
