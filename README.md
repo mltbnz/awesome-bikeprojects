@@ -126,6 +126,7 @@ Jump to
 * [Sternfahrtplaner](https://github.com/SebastianHanfland/RallyGPXMerger) - A web tool to plan, publish and register simple bike demonstrations as well as complex rallies, with multiple start points and one destination (in German called Sternfahrt, like star rally). The web tool is hosted under [www.sternfahrtplaner.de](https://www.sternfahrtplaner.de/).
 * [Safe Cycling Map](https://safecyclingmap.com/) | [GitHub](https://github.com/jakecoppinger/safe-cycling-map) - A map showing how safe a street is for cycling, based on (arbitrary) metrics.
 * [Regenampel](https://regenampel.de/) | [GitHub](https://github.com/jonnyschaefer/radolan) - A web app that tells you when you need to set off on your bike so you arrive without getting wet.
+* [VeloVostra](https://velovostra.com/) - A Strava-adaptive cycling training planner. Generates structured base, build, and peak plans around the rider's schedule, then reshapes the week ahead based on actual Strava activity. Exports to Zwift (.zwo), Garmin and Wahoo (.fit), and calendar.
 
 ## Verkehrszählung
 
