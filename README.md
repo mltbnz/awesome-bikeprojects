@@ -192,6 +192,7 @@ Was ist der öffentlich Raum eigentlich wert?
 * https://natenom.de/ Natenoms (&dagger; 30.01.2024) Blog – mit vielen interessanten Beiträgen.
   * Auswahl:
   * https://natenom.de/2023/06/eine-headmap-aus-gpx-dateien-erstellen-mit-einem-python-tool/ Eine Heatmap aus GPX-Daten erstellen (Python) https://github.com/remisalmon/Strava-local-heatmap
+* [Tempo 30 Potenzialkarte München](https://umap.openstreetmap.de/de/map/tempo-30-potentialkarte-munchen_127687): Map visualizing streets segments that qualify for a speed limit of 30 km/h due to the new regulations within the StVO 2024. The analysis is based on an automated determination of segments using OSM data. The map shows munich, but the corresponding [code](https://github.com/MunichWays/tempo-30-potenzialanalyse) can be used to analyze any german region.
 
 ### Global
 
